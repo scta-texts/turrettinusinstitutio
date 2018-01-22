@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 10</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 10</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q10">
+        <head>Locus I, Quaestio 10</head>
+        <head type="question-title">An Rationi humanae judicium contradictionis in Rebus Fidei permittendum sit ?</head>
+        <p>I. Haec etiam Controversia agitatur inter Nos et Luthe oi√°"** ranos, potissimum Ubiquitariös, quibus quia objicere
+          - solemus opinionem eorum de rexvreri: vel xarrazovaix Corporis Christi esse contradictoriam, regerere solent, Judicium contra dictionis in articulis fidei non ad Rationem pertinere, sed ad Scripturam sacram, Osiand. Enchiri. Calvin. c. i. q. 3. Menzerus in Elencho erro rum Sadeelis ad Arg. 6. Stegmanus in Photin. disp. 2, q. 3, unde Meis nerus quaest. metaph. 3, contra Calvin. dicit axioma istud, Contradictoria prorsus sunt impossibilia quia idem esse et non esse sit λύνετο», periculosis simum esse in divinis. Ad quaestionis statum tenendum, distinguenda hic tria sunt, ratio judicans, principium ex quo judicium formatur, et norma consequentiae qua judicium formatur. 1. Ratio hic intelligitur non caeca et depravata per peccatum, sed restituta et illuminata a Spiritu Sancto. 2. Principia sunt axiomata, non natura nota, aut humana autho ritate constituta; sed in Scriptura tradita. 3. Norma qua dirigitur et firmatur ratio in eruenda et applicanda veritate e Scriptura, sunt regulae bonae consequentiae a Deo Creaturae rationali inditae. - Norma autem ista non est Norma veritatis ipsius, quae est solum Dei Verbum et prima veritas normalis, sed Norma tantum consequentiae, cujus interventu certius cognos citur et discernitur quid sequatur ex vero, quid non.</p> 
+        <p>II. Non quaeritur, Am Ratio possit assequi Mysteria sit, gus- fidei per se; nemo enim diffitetur plurima ex ipsis longis
+          - sime rationis captum superare; Sed, An possit cognoscere de contradictione propositionum, quae nónnisi ex naturae et rationis legibus discerni potest. 2. Non quaeritur de Judicio decisionis absoluto et illimi tato, sed de Judicio discretionis, quod limitatum est et alligatum Verbo, et quod ex eo semper probandum est, 1 Thes. v. 21; 1 Joan. iv. 1, quod si non facit semper ad convictionem alienam, sufficit tamen ad propriam.</p> 
+        <p>III. Sic ergo statuimus; Judicium contradictionis ad rationem perti nere, sed 1. supposita semper revelatione, ejusque veritate per se fide digna. 2. Organice et ministerialiter, non despotice et autoritative. 3. Cum exigentia ad ipsam Scripturam, quae satis seipsam interpretatur, nec extra se ullum requirit interpretem, quo ejus sensus stabiliatur. Atque ita Rationem a Spiritu Sancto illuminátám per Verbum, ex ipsomet Verbo juxta regulas bonae et necessariae consequentiae posse considerare et judi care, quomodo partes doctrinae inter se cohaereant, et quid ex illis sequatur, quid non.
+          Judiciicium contra-</p> 
+        <p>IV. Rationes sunt, 1. Quia Scripturahoe semel praecipit, Matt. vii. 15, et xvi. 6; Col. ii. 8; £ompetere pro- 1 Thessal. v. 21; Hebr. v. 14. 2. Exempla Sanctorum batur. confirmant, ut Berœensium, Act. xvii. 11, et Corinthio
+          rum, 1 Cor. x. 15. 3. Finis Scripturae docet, qui est perfectio Viri Dei in veritatis cognitione, et contradicentium convictione, 1 Tim. iii. 16; Tit. i. 9, qui sine eo obtineri nequit. 4. Rationis usus evincit, quia ut
+          QUÆst. x.] DE THE0L0GIA. 31
+          ad eam pertinet cognitio affirmationis vel negationis propositionum, et doctrina €ontradictionis, ita et judicium ejus ad eam spectat, et nisi hoc statuatur, latissima aperitur porta omnis generis haereticis et famaticis, figmenta sua et opinionum monstra obtrudendi, nec ulla unquam vera esse poterit contradictio.</p>
+        <p>V. Licet judicium hoc ab homine fiat subjective, mon Fontes, $utio- censendum tamen est humanum, quod more hominum ori
+          - ginaliter ex ratiociniis aut affectibus humanis concipiatur, sed Divinum, quod ex luce et affectu Spiritus Sancti promitur, quo sensu Paulus ait 1. Cor. ii. 14. hominem spiritualem omnia judicare, spiritualiter scilicet ex lumine gratiae, non rationis animalis.</p> 
+        <p>VI. Ratio non potest judicare de potentia Dei ex principiis maturalibus; Sed nihil obstat quominus de ea judicet ex Verbo, Matth. xix. 26; 2 Tim. i. 12; Psal. cxv. 3. Ita periculosum est judicium contradictionis quoad rationem excœcatam, quando ex corruptis principiis judicat; sed nos loquimur de ratione illuminata, ex Verbo pronunciante.</p> 
+        <p>VII. Captivanda est ratio 2 Cor. x. 5. quatenus se effert adversu8 Christum et Evangelium ejus, sed potest audiri quando illi subservit, et ex eo judicat.</p> 
+        <p>VIII. Tenebrae ingenii humani non impediunt, quominus de veritate connexionum, et sic de contradictione sama ratio judicare possit; Damus quidem non posse judicare de veritate sententiarum, utpote quam ignorat per se, et quae ex Lege et Testimonio petenda est ; sed non inde sequitur non posse judicare de contradictione enunciationum, et opinionum ac inter pretationum, quas homines formant circa ista mysteria.</p> 
+        <p>IX. Ratio non tantum judicare potest de contradictione directa et for mali, quae constat iisdem terminis, et expressa affirmatione et negatione, sed etiam de indirecta et implicita, quae per necessariam consequentiam de ducitur: Qualis haec est, Christi Sanguis nos purgat ab omni peccato, ergo non datur Purgatorium ; Christus ascendit in coelos, ergo non est ubique.</p> 
+        <p>X. Non necesse est ad contradictionem cognoscendam nosse distincte res ipsas et earum essentiam, sed sufficit ut cognoscatur veritas eonnexio mum, ex quibus de contradictione propositionis facile judicium ferri potest.</p> 
+        <p>XI. Licet multa contradictoria variis videantur, quae tamen reipsa non sunt; non sequitur hominibus ratione bene utentibus, et recte sentientibus tale quid videri quod non sit.</p> 
+        <p>XII. Aliud est loqui de ratione sana et regenita, in abstracto; Aliud de eadem im concreto, et prout est in hoc vel illo $ubjecto corrupto : Judi cium damus rationi mon posteriori, sed priori tantum sensu.</p> 
+        <p>XIII. Aliud est rationi omne judicium adimere, et statuere ei absolute credendum non esse ; Aliud non tantum eredenda esse quae ratio movit, sed in perfectiore schola ea discenda esse quae ratio tradere et assequi non potest; Prius non dicimus, sed posterius.</p> 
+        <p>XIV. Licet Judicium contradictionis in rebus fidei rationi permittatur, non sequitur intellectum humanum fieri regulam potentiae divinae, quasi Deu$ non po$sit plura praestare, quam ratio humana possit concipere : Quia aliud est fieri posse aliquid a Deo supra naturam et conceptum humanum, quod verissimè dicitur Ephes. iii. 20. Aliud vero contra maturam et prin cipia luminis naturalis, quod falsissimum; Neque ita limitatur potentia Dei ad regulam intellectus nostri, sed mens nostrâ judicat ex Verbo, quid juxta rei naturam a Deo constitutam possibile vel impossibile dicendum sit.</p> 
+        <p>XV. Ratio non potest judicare de potentia Dei, ut eam penitus compre hendere valeat, vel ut impossibilia putet quae supra maturam $unt, vel ut
+          aliquid in Theologiam inferat sub praetextu potentiae divinae, nisi antea de illo ex Verbo constet ; multo minus ut quum Verbum Dei aliquid certe et clare statuit, ad illud evertendum ad omnipotentiam Dei confugiat. Sed eatenus bene judicat de Potentia Dei, quum illam ad rerum naturam et Verbum ejus expendit ; ut illud impossibile dicatur et contradictorium, non quod tale videtur huic vel illi, sed quod tale est reipsa, quia repugnat naturae rei, et veritati in Verbo revelatae.</p> 
+        <p>XVI. Aliud est rationem esse posse Judicem falsi, contradictorii, et repugnantis tam rationis universalissimis principiis, quam revelationi, v. g. im materia de Transubstantiatione, Ubiquitate, Adoratione creaturarum et
+          sim.; Aliud Rationem esse debere Judicem, et normalem quidem veri revelati, et uvzrwga/3ovs, quod supra illius sphaeram quam longissime evectum est, quod a Deo traditum, cujus cogitationes immensum quantum humanas transcendunt, et qui rationem vult captivam duci ad obsequium fidei. 2 Cor. x. 5. Istud negamus, sed illud asserimus.</p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

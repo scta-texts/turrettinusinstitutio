@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 12</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 12</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#U" n="1"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q12">
+        <head>Locus I, Quaestio 12</head>
+        <head type="question-title">An Dogmata fidei et morum tantum expresso 
+          Dei Verbo demonstranda sint; Annon etiam per Consequentias eae Scriptura institutas legitime probari possint ?</head>
+        <p>I. Quaestio nata est ex nova Agyrtarum et Circulato ***"'""** rum apud Pontificios disputandi iiïëthodo, qui ut facilius se expedirent ab argumentis nostris, quibus invicte ex Scriptura sententiam nostram adstruimus, et errores ipsorum confodimus; non aliam commodiorem elabendi rationem se habituros arbitrati sunt,
+          quam si nos eo adigerent, ut dogmata nostra omnia totidem verbis in Scriptura contineri demonstraremus, rejecto omni consequentiarum usu. Primus inter Pontificios videtur hanc artem excogitasse Perronius Cardin. in Replica. sua adversus Regem M. Britanniae, quem secuti sunt alii plures ejusdem furfuris, Gunterius, Cottonus, Arnoldus, et praecipue Veronus, qui peculiarem etiam Methodum exinde disputandi Veronianam dictam concin navit, quibus se adjunxerunt Fratres Wallemburgii in Germania, aliique lucifugae Missionarii. Sed veteres haeretici illis jam praeluxerunt, Arriani enim hoc argumento non semel usi sunt ut τό άμάovaiov expugnarent; sic Macedoniani negabant Spiritus Divinitatem, eo quod in Scriptura nuspiam expresse dicatur Spiritum Sanctum esse Deum, vide Greg. Nazianz. Orat. 5, de Theol. Iisdem armis Apollinaristas et Monophysitas usos fuisse tes tatur Maaeimus Monachus in orationibus viginti, quae vulgo, sed perperam, Athanasio tribuuntur.</p>
+        <p>II. Articulus quintus Confessionis Gallicanae, unde videri volunt hau sisse sententiam quam nobis affingunt, asserit quidem Scripturae perfec tionem, quum ait, eam esse omnis veritatis regulam, et complecti quicquid ad gloriam Dei et salutem nostram requiritur, ut non liceat hominibus, imo ne Angelis ipsis, quicquam illi addere vel detrahere ; sed non statuit nihil admittendum, nisi quod totidem verbis in Scriptura legatur, imo sub finem
+          
+          quando additur tria Symbola a nobis admitti, Apostolicum, Nicenum, et Athanasianum, satis innuitur nos apices verborum non seetari, sed verita tem doctrinae et cultus. Vult ergo solum Dei Verbum retineri exclusive ad quasvis traditiones, sed non statim restringit nos ad expressum Verbum exclusive ad consequentias.</p> 
+        <p>III. Ad quaestionis intelligentiam, Observandum, aliquid in Scriptura posse dici bifariam, vel xarà àvwoiav vel xarà x£/», vel expresse et totidem verbis, vel implicite et quoad sensum : omnia contineri dicimus in Scrip tura non primo modo, sed secundo.</p> 
+        <p>IV. Consequentiae possunt spectari, vel materialiter, prout notant dog mata ipsa per consequentias educta, vel formaliter pro connexione ipsa terminorum, quo modo, Aug. lib. 2, de Doctrina Christi, c. 31, distinguit inter veritatem sententiarum et veritatem conneacionum. Rursus aliae sunt
+          innatae et eductae ex Scriptura, quae virtualiter in ea continentur, aliae illatae in Scripturam et invectae in eam. Aliae proximae, necessariae, et evidentes; Aliae remotae, probabiles, et obscurae : de illis hic agitur non de istis. V. Solida probatio rei, vel talis est in se, vel in ordine ad hominem hunc vel illum : illa in evictione rei sita est, ista in convictione hominis; illa semper habetur in argumentatione recta per consequentias, ista non
+          item.</p>
+        <p>VI. Articuli fidei qui ex Scriptura probari debent, vel sunt positivi et affirmativi, qui dogma aliquod credendum continent, vel negativi et eaeclu sivi, qui errores ab haereticis invectos rejiciunt; Illi elare et certo ex Scrip turis debent probari; quia sunt proprium objectum fidei; sed quod ad istos, sufficit de ipsis in Scripturis nullam mentionem fieri, et ea tradi ex quibus facile falsitatis convincuntur; Hinc ludibrium debent Adversarii, quum a
+          nobis petunt ut probemus totidem verbis in Scriptura nullum e$$e Purga torium, Papam non esse Caput Ecclesiae, Missam non esse Sacrificium, e. 1. Quia affirmantis est probare, non negantis. 2. Ista dogmata nobis mon sunt positiva, sed negativa : sufficit ergo ut doceamus ea nuspiam conti neri in Scripturis, et alia haberi ex quibus facile refutantur.</p> 
+        <p>VII. Sufficientia et perfectio Scripturae, non in eo est posita, ut omnes errores et haereses nominatim im ea damnentur, sed tantum ut omnia dog mata positiva clare tradantur; nam ut rectum est index sui et obliqui, facile posita omni veritate mecessaria, errores illi oppositi rejiciuntur.</p> 
+        <p>VIII. Quaestio E. ad hosce terminos redigitur; An praeter expre$$um Dei Verbum Consequentiae evidentes et necessariae in Theologia admit tendae sint; seu An dogmata fidei et morum ex iis legitime probari pos sint? affirmamus Nos, negant Adversarii; non tamen omnes. Nam Bel larminus nobiscum hic facit, lib. 4, de Verbo Dei, c. 9, et lib. 3, de Justi ficatione, c. 8. Nihil est, inquit, de fide, nisi quod Deus per Apostolos et Prophetas revelavit, aut quod evidenter inde deducitur; cui adstipulantur Canus, l. 12, loc. com. c. 6. Salmero, tom. i. prol. 9, c. 7. Turrecra mata, li. 4, sum. Ecel. p. 2, c. 8, et alii plures, id statuentes esse de fide, quod per necessariam et legitimam consequentiam ex Scripturis dedu citur.</p>
+        <p>IX. Consequentiarum usum in rebus fidei multa pro Consequeatiarum bant: 1. Finis Seripturae, qui est ààaarwaxia, ἐλεγχος, xa ;;; E* vig4•ois, aeaubua, xagaxxmeru, 2 Tim. iii. 16; Ro. xv. 4, qui sine illis obtineri nequit, quia nec thesis ad hypothesim transferri, mee ulla applicatio Scripturae ad usus vel Theoreticos vel Prae n,.„, „„„;„;.. ticos fieri unquam poterit. 2. Natura hominis cui myste ria Religionis concredumtur, qui non est truncus aut bru
+          
+          tum, sed creatura rationalis, quae proinde, cum ratiocinationis sit capax, debet Scripturas scrutari, Jo. v. 39, et non in cortice verborum haerere, sed ad medullam ipsam et sensum penetrare, ut ex iis quae legit, aliqua etiam quae non legit intelligat, ut bene notat Aug. lib. 3, contr. Maaci. c. 3, 3. Sapientia Dei ; Nam ut qui sapit, quando loquitur, vult ut omne illud dictum a se intelligatur, quod ex verbis le gitime elici potest; Ita cum sapientissimus sit, qui praevidit quicquid ex Verbo deduci potuit, ita loquutus est, ut voluerit pro Verbo suo haberi quod ex dictis legitime colligitur. 4. Praacis haereticorum, qui ut melius adversus Orthodoxos errores suos tuerentur, consequentiarum usum omnino repudiabant, ut Ariani *ό άμοούσιον negabant, eo quod ezùrox*%al non contineretur in Scripturis; unde syllabarum aucupes dicti sunt Basilio ; et Nazian. orat. 37, Pneumato machum simili fraude utentem vocat alphabetarium sophistam, et avxoq)*-
+          -- _ - πᾶν τὸν όνοματων. 5. Pontificiorum usus, qui pleraque sua P.ontifjorum dogmata de primatu et infallibilitate Papae, de Transub
+          - stantiatione, de Purgatorio, et sim. per consequentias pro ... bare solent. 6. Eacemplum Christi et Apostolorum, qui *:;;3 „§i; passim usi leguntur consequentiis ; Ut quum Christus ex pos ' formula fœderis contra Sadducaeos probât resurrectionem
+          mortuorum Matt. 22. cum tamen nihil expresse hic de resurrectione habe atur: Et quum Apostoli Jesum Nazarenum probant esse verum Messiam in V. T. promissum, cum tamen de eo nihil aùrox*£υ legatur. Nec juvat excipere Christi et Apostolorum authoritatem esse infallibilem ; ideo com sequentias etiam indubitatae veritatis esse, nostras vero tales non esse :
+          Nam licet in se ab authoritate dicentis infallibiles sint Consequentiae Christi; tamen vim suam non habebant apud Sadducaeos ab authori tate dicentis, quam non agnoscebant, sed a natura dictorum ; alias qui Christus illa ipsa probatione obstruxisset os hostibus $uis, qui authoritatem ejus non agnoscebant?
+        </p>
+        <p>X. Licet illationes Christi quoad nos transeant eo ipso in Verbum Dei, ua a Christo proficiscuntur, et objectum fidei reddantur de jure, tamen àlsum eas pro tali habitas a Sadducaeis Christi hostibus de facto qua tales, imo ideo tantum admissae sunt, quia habebant fundamentum in dicto Mosis a Christo allegato. Itaque ut tales ab illis cognoscebantur, ut ratio habita fuerit dictorum, mon dicentis.</p> 
+        <p>XI. Aoytapae] adversus quos arma militiae nostrae dirigun Fontesmum.$olutio- sed tur deutquibus ibidem2 Cor. ait Ao^yuauei x. 4, noniragiuvo, sunt quaevis xarà ratiocinatiónes, τ$ς γvaJorias rov
+          Θεοῦ, oppugnantes scilicet non ancillantes, quae opponuntur Evangelio, non quae illi subserviunt : Illae merito destruendae sunt, quia vwraro, cum fide; §ed non pariter legitimae ratiocinationes, quae subjiciuntur revelationi, et a
+          illam explicandam et applicandam recte usurpantur.</p> 
+        <p>XII. Aliud est fundamentum quo res aliqua mititur ; Aliud instrumentum quo utimur ad rei istius cognitionem. Quod habet fundamentum fallibile non potest esse infallibile, quia effectus non potest esse nobilior toto genere causa sua : sed ratio hic non est fundamentum, $ed instrumentum.</p> 
+        <p>XIII. Licet intellectus qui elicit consequentias sit fallibilis; non sequitur consequentias esse falsas et incertas. 1. Quia aliud est fallere posse, aliud actu fallere; Aliud fallere àliquando, Aliud fallere semper: Potentia quae est per se et semper fallibilis in omnibus operationibus, non potest fundare certitudinem infallibilem : sed intellectus talis non est, quia fallibilis est non per se, sed per accidens, nec in omnibus, sed in quibusdam tantum ;
+          Sapientia Dei.
+          Praxi Haereti
+          coruum.
+          QUaest. xii.] DE THEOLOGIA. 37
+          alias si universaliter procederet argumentum, et si quia ratio aliquando fallitur, nulla illi adhibenda esset fides ; sequeretur omnem revera notitiam et certitudinem tolli de mundo, et introduci Pyrrhonismum et xaraXr}iw ;
+          sic tolleretur omnis certitudo sensus, quia aliquando fallit, quod absurdissi mum esse quivis facile intelligit; nam fallibilitatis potentia non necessario conjuncta est cum actu, imo caveri potest ne exeat in actum, adhibitis legi timis mediis: Ut ergo liberandi sunt sensus ab impedimentis, quibus eorum certitudo inhibetur, quae vel in objecto, vel in medio, vel in organo deprehenduntur; ita liberandus est intellectus a praejudiciis rationem rec tam impedientibus, et tunc non errabit: hic autem loquimur de intellectu sano et bene constituto.</p>
+        <p>XIV. Aliud est Consequentiae rationem deprehendere, Aliud vero ipsum Consequens. Consequens deprehendit fides, Consequentiam Ratio ; Nec tamen inde sequitur fidem qua consequens creditur, niti ratione, quia hic ratio non est argumentum propter quod credo, sed instrumentum quo credo; instrumentum autem non introducit in Textum quod ibi non erat, sed educit per legitimam consequentiam quod antea ibi latebat; Unde con clusio emergit Theologica a medio inferénte, Logica vero a ratione sive instrumento eliciente consequentias; et Consequentia quoad rò materiale fundatur in Verbo, quoad formale in Ratione.</p> 
+        <p>XV. Licet Ratio concurrat ad eliciendas consequentias, non sequitur fidem ratione stabiliri ; ut nec, quamvis fides sit ex auditu, sequitur sensum esse fidei fundamentum; fides utitur ratione, non ea nititur; utitur tanquam instrumento applicationis et modo cognoscendi, non ea nititur ut funda mento et regula credendorum.</p> 
+        <p>XVI. Syllogismi mixti, in quibus altera praemissarum est luminis natu ralis, altera revelati, non desimunt esse de fide : 1. quia propositio quaelibet denominationem accipit a subjecto mon a praedicato. 2. propositio quae est luminis revelati virtualiter continet id quod petitur a lumine naturali ad sui probationem, atque adeo vim suam illi communicat. 3. ad probandam fidei conclusionem medius terminus desumitur non a matura sed a Scriptura; sed ubi nexus medii cum majore extremo negatur ab Adversario, succurritur per rationis principia, non ad probandam medii veritatem, sed nexus: v. g. nego panem fieri in Cœna Corpus Christi, assumpto hoc medio, quia habet accidentia panis; si vero negatur connexio medii cum majore ex tremo; scilicet id quod habet accidentia panis, esse verum panem ; pro banda est ex ratione, quia formaliter non extat in Scriptura, sed tantum
+          virtualiter.</p>
+        
+        <p>XVII. Tantum abest ut ministerium rationis fidem dubiam faciat, ut
+          potius cognitionem et certitudinem ejus plurimum adjuvet, et stabiliat :
+          Distingue modo rationem in abstracto, et in concreto, rationem illu minatam in homine fideli, vel caecam in irregenito: Verum est rationem caecam et falsam dubiam fidem facere; sed negatur de ratione sana et
+          illustrata. -</p>
+        <p>XVIII. Licet Theologus perfectiorem notitiam habeat consequentiarum, Non obstat tamen quominus idiota idipsum possit pro modulo suo, quamvis ignoret Logicam et Metaphysicam, quia sufficit illi lumen rationis, et Logica naturalis ad discernendas consequentias naturales.</p> 
+        <p>XIX. In hoc argumentationis genere, ubi aliquid per consequentiam elicitur, requiritur, 1. Ut altera praemissarum, vel utraque, immediate vel mediate, verbis propriis vel figuratis, in Scriptura contineatur. 2. Ut consequentia seu illatio sit necessaria et evidens; necessaria non solum necessitate formae, sed etiam materiae sive consequentis, ut quum ex ante
+          38 L0CU8 PRiMUs. [QUaest. xii.
+          cedente consequens, ex genere species, ex causa effectum deducitur. 3. Ut sit evidens propter assensum, ut propter evidentiam illationis non minus conclusionibus quam praemissis assentiamur.</p>
+        <p>XX. Aliud est loqui de ratiocinationibus extractis ex Scriptura et secundum eam, et quae subordinantur revelationi et in eam resolvuntur; Aliud de iis quae illi opponuntur. Non sequitur, licet haeretici utantur istis ad errores suos confirmandos, illas non esse admittendas; nam prop ter rei abusum, ejus usus legitimus tolli mon debet.</p> 
+        <p>XXI. Usus consequentiarum non est alienus a simplicitate discipulorum Christi; nam oves Christi etsi simplices esse debent, non debent tamen esse brutae, sed rationales; nec si Tunam Christi audire debemus voeem, continuo impeditur ratiocinationum usus, modo adhibeatur cum tempera mento legitimo; imo quia Christi vox est audienda, scrutandae sunt Scrip turae, et vox peregrina a voce Christi discernenda, quod sine rationis usu fieri nequit. Ita tantum abest ut ratiocinationibus per eonsequentias e
+          Scriptura deductis recedatur a Scriptura, vel illi aliquid addatur, ut ea duntaxat quae sunt in Scriptura eruantur et ad usum reducantur.</p> 
+        <p>XXII. Licet Scriptura dicatur perfecta in genere fundamenti creden dorum et faciendorum, quatenus omnia dogmata continet et praecepta morum, quae necessaria sunt ad salutem ; hoc non obstat quominus et explicatione et applicatione opus habeat; ut regula perfecta est, et tamen ejus applicatione opus est; nec ista applicatio intercedit perfectioni regulae, sed potius eam probat et declarat.</p> 
+        <p>XIII. Matauoxoylx seu vaniloquentia, quam proscribit Apostolus 1 Tim. i. 6, non est ratiocinatio sana per consequentias ex Scriptura; sed est curiosa et anxia de rebus vanis dissertatio, quas vocat v. 4. μῦθονς xaì ^yvtovxoyiag xvgavrovs, quales erant non modo Gentilium fabulae de Diis suis et Svoyovix, sed et Judaeorum deliria de Lilith, Behemoth, Leviathan, et aliis id genus Talmudicis nugis febrilibus.</p> 
+        <p>XXIV. Abusus ratiocinationum mom est confundendus cum earum usu,
+          nee res considerata in abstracto in se damnanda, ob perversam ejus appli cationem in concreto: Sic multi falluntur in objectis variis dignoscendis per auditum, vel visum, nec ob id tamen dicendum incerta omnia esse quae sensibus istis apprehenduntur. Ita si peccant illi, qui consequentiis utuntur ad firmanda falsa Transubstantiationis vel Consubstantiationis dogmata, quia sunt violentae et illegitimae, non continuo damnari debent illi qui legi {ime iis utuntur; alias sequeretur damnandum etiam esse Scripturae ipsius usum, quia multi haeretici ea abutuntur.</p> 
+        <p>XXV. Aliud est aliquem audire, ut artificem dogmatum, sic Moses, Prophetae, et Christus soli audiendi, et quoad res traditas, et quoad modum tradendi; Aliud audire, ut artificem instrumentorum dogmatibus expli candis et applicandis idoneorum, sic homines consequentiis utentes pos
+          sunt audiri.</p>
+        <p>XXVI. Alia sunt principia dogmatum et Veritatis sententiarum, Alia sunt principia veritatis eductionum ; Illa ducuntur ex Scriptura, Ista ex ratione; et quia Veritas sententiarum potissima est, spectatur potissimum in argumentis, et ex ista judicium fieri debet de conclusione; Unde con clusio argumenti Theologica erit, quia principium dogmatum tale est; IRatio vero non est principium rei, sed cognitionis rei, Nec tam principium, quam instrumentum quo cognoscitur id quod probatur.</p> 
+        <p>XXVII. Consequentia est opus rationis, quatenus consideratur for maliter et organice, quia per rationem elicitur, sed non ut originaliter et materialiter spectatur, pro doctrina per consequentiam elicita. Ita Conse
+          QUaest. xii.] IoE THEOLOG1A. 39
+          quentiae non sunt de fide ex parte organi, quo eliciuntur, non enim credo, quia sic ratiocinor, sed quia hoc dicit Verbum Dei; sunt tamen de fide ex parte principii, ex quo eliciuntur; quales enim sunt praemissae, tales con
+          elusiones inde deductae.</p>
+        <p>XXVIII. Aliquid censetur profectum a Spiritu Samcto, vel mediate et in ramis, quod nempe ex Scriptura elicitur ministerio ratiocinationis, vel immediate et in radice, quod totidem verbis in illa continetur: priori modo eonsequentiae sunt a Spiritu Sancto, non posteriori.</p> 
+        <p>XXIX. Licet pro Reformatorum doctrina non sit habendum, quod ex ipsorum Confessionibus quomodocunque elicitur, et illis imputatur; nec pro sententia Lutheranorum statim quod ex eorum dogmate colligitur; non sequitur non posse haberi pro Dei Verbo, quod ex eo legitime et evi denter elicitur, quia non est par ratio; Spiritus enim Samctus, qui rà ßai%n τοῦ Θεού scrutatur, 1 Cor. ii. 10, ut omniscius, potuit praevidere et intendere quicquid ex dictis suis erui rite poterat; sed homines, qui nec sunt omnis eii nec infallibiles, scire non potuerunt quid ex dictis suis in posterum erui posset. - -
+          2 Pet. i. 20</p> 
+        <p>XXX. Quum Petrus negat Scripturam esse privatae **** *** interpretationis c. i. 2ae, non intelligit privatam subjective, quae a privato aliquo potest legitime ex Scripturae collatione erui; alias non juberet Spiritus Sanctus legere et scrutari Scripturas, et spiritualia cum spiritualibus conferre 1 Cor. ii. 13, prophetare ad analogiam fidei, Rom. xii. 6, et applicare eas ad convictionem et correctionem, etc. 2 Tim. iii. 15. Sed intelligitur interpretatio privata originaliter, et ut habet tex tus àia ixixvris, id est propria et singularis, quae ex cujusque cerebro et arbitrio oritur, et quam non suppeditant Scripturae verba eorumque colla tio, quale est jus quod sibi tribuit Papa Scripturam pro libitu interpre tandi secundum spiritum illum infallibilem, quem sibi proprium et privatum facit.</p>
+        <p>XXXI. Ut Scriptura per Scripturam exponatur, sufficit ut Scriptura in circumstantiis antecedentibus, consequentibus, parallelis, scopo, etc. funda menta et rationes Interpreti suppeditet, quibus ille genuinum Scripturae sensum eliciat, aliisque ad conscientiam eorum demonstret: Sed non me cesse est ut Scripturae ullibi dicant locum istum per alterum esse explican dum, et ut in Scriptura legatur expresse consequentia et interpretatió quam propono; ut quum Jurisconsultus legem cum lege conferens, et unam ex altera explicans, dicit Imperatorem et Legislatorem seipsum interpretari, non opus est ut Imperator alicubi dicat expresse hanc Legem per illam, et haec verba ex istis esse exponenda.</p> 
+        <p>XXXII. Licet Scriptura non judicet de bonitate consequentiae quoad veritatem connexionis, quia hoc pendet a ministerio rationis, non desinit esse sola Judex contraversiarum fidei quoad veritatem sententiarum; ut Lex non desinit esse Judex litium quae oriuntur in Republica, licet non dicat consequentias, quae ex ipsa deducuntur ad hunc absolvendum et ad istum damnandum, bonas esse et bene formatas : Nec unquam auditum principia disciplinarum realium judicare de bonitate consequentiarum quae inde formantur, quamvis ex illis controversiae dijudicentur, Physicae ex Physicis, Ethicae ex Ethicis.</p>
+        <p>XXXIII. Ut auditus non facit sonum, et visus non facit lumem, quod videndo percipit; Ita nec intellectus facit objectum suum seu veritatem et Verbum Dei quod ratiocinando intelligit, sed supponit pariter: Sed ut intellectus ratiocinando facit ut veritas seu Verbum Dei sit conclusum; ita
+          40 LOCUS priMus. [QUaest. xIII.
+          visus et auditus videmdo et audiendo faciunt ut lumen sit visum, et sonus sit auditus.</p>
+        <p>XXXIV. Licet id sit perspicuum et evidens, quod a nemime negatur, et quod ab omnibus statim comprehenditur; non sequitur non esse perspi cuum quod ab omnibus statim non capitur, nam saepe multis multa sunt obscura, quae iisdem potuissent et debuissent esse maxime perspicua, vel quia nom adhibent debitam attentionem, vel quia praejudiciis excœcati sunt. Quando dicimus consequentias nostras evidentes esse, non eo sensu intelli gimus, quasi a nemine negentur, et a quovis facile capiantur sine ulla at tentione et examine; sed intelligimus evidentes esse diligenter attendenti bus, et debito modo considerantibus, vel tales, ut si quis eas non videat, bonam conscientiam habere nequeat.</p> 
+        <p>XXXV. Si per rà formaliter revelatum intelligatur id quod expresse legitur in Verbo Dei, certum est consequentias nom posse dici formaliter revelatas: Sed si intelligatur illud quod vel totidem verbis, vel aequi valentibus, vel per evidentem et necessariam consequentiam elicitur, non É* negari esse formaliter revelatas, ideoque bene dici objectum formale
+          €l.</p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

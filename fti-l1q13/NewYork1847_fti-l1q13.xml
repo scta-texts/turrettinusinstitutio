@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 13</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 13</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q13">
+        <head>Locus I, Quaestio 13</head>
+        <head type="question-title">An aliquis sit Philosophiae in Theologia Usus ?</head>
+        <p>I. Peccatur hac in parte in Eccessu et in Defectu. In Excessu j;3 In Ercessu, ab iis qui , PhilosQphiam, cum Theologia
+          {}'**"** confundunt; quod fáciebant olim Pseudapostoli, qui dogmata varia Philo$ophica male sana doctrinae Chris tianae immiscebant, qui propterea arguuntur ab Apostolo, Colos. ii. 8. Patres nonnulli, qui ex Philosophis egressi, nonnullas eorum sententias erroneas retinuerunt, et dogmatum Phi lo$ophicorum et Theologicorum mixtura Gentile8 ad Christianismum adducere tentarunt, ut Justin. Martyr, Origenes, Clemens Aleaeandrinus. Et Scholastici, quorum doctrina magis est Philosophica quam Theologica, quae magis nititur rationibus Aristotelis et aliorum Philosophorum, quam testimoniis Prophetarum et Apostolo:
+          Sociniani rum. In eundem lapidem impingunt hodie Sociniani, qui * Philosophiam im arce collocant, ut fidei principium et Scripturae interpretem, [quod imprimis urget Paradoaeus Exercitator in impio tractatu non ita pridem edito, de Philosophia Scripturae interprete. In Defectu peccant qui Philosophiam Theologiae contra riam censent, ideoque a Theologia penitus eliminandam, mon modo, ut inutilem, sed itiam ut noxiam, quod supe Famatici, Anabap- rioribus seculis Fanatici et Enthusiastae statuebant, et tistae, Weigoii- hodie Anabaptistae et Weigeliani retinent, qui Philosophiae an1- et liberalibus artibus bellum ex professo videntur in
+          Patres nonnulli.
+          Scholastici.
+          In Defectu.
+          dixisse.</p>
+        <p>II. Orthodoxi medium tement: non comfumdunt Theo
+          logiam cum sana Philosophia tanquam partes totius, nec opponunt ut contrarias, sed subordinant et componunt ut subordinatas, quae non repugnent sibi, sed subserviant, quod Philo Judaeus, et ex eo Patres apposite declararunt per allegoriam Sarae et Agarae, Do
+          Orthodoxi medi
+          um tenent.
+          minae et Servae, ut Theologia dominetur Philosophiae, et haec ei ancilletur et subserviat. Fatentur varium et multiplicem ejus esse in Theologia usum, sed qui a multiplici ejus abusu sit ac curate discernendus.</p>
+        <p>III. Quamvis non quicquid verum est ratione demonstrari queat, cum multo latius pateant veritatis quam rationis fines; nullum tamen menda cium ullo verae rationis patrocinio contra veritatem niti potest, nec veritas a veritate potest aboleri, quamvis una alteram transcendat et superet; quia quaecunque illa sit, sive infra rationem, quae sensu, sive juaeta ratio nem, quae intellectu, sive supra rationem, quae fide percipitur; non aliunde quam a veritatis parente Deo est profecta. Ita gratia non destruit natu ram, sed perficit, nec revelatio supernaturalis naturalem abrogat, sed
+          repurgat.</p> 
+        <p>IV. Philosophia vel proprie sumitur et in abstracto pro rerum divina rum et humanarum cognitione, quatenus luce naturae cognosci possunt; vel improprie et in concreto pro sylloge variarum opinionum inter se pugnantium, quas diversarum Sectarum Philosophi tenuerunt. Posteriori hoc sensu fatemur multos errores continere, et nullum usum ejus esse, sed maximum abusum, et sic eam damnat Paulus, Coloss. ii. 8; sed priori non potest negari multiplices ejus esse usus. Nos generales tantum obiter indicamus.
+          Et Usum ab abusu
+          distingunt.</p>
+        <p>V. Primo ut sit medium tum convincendorum, tum ad em Christianam praeparandorum Gentilium : unde Clem. Aleae. stro. 1. dicit eam ^rgoxaraaxsv£u» τ}ν δύν +í AaziA/xa/ra/rw 3ûazxaxixp.
+          ut patet ex concionibus Paulinis, Act. xiv. et xvii. et ex Scriptis Patrum contra Gentiles; quo pertinet Juliani Apostatae vox, quum videret Gen-. tilium errores profligari a Christianis Philosophiae et humaniorum literarum studio, τοῖς αὐτόν aerigei;  Auzxáutéa, nostris ipsorum alis capimur. Ita Deus vult ut quicquid veri latet in $cientiis inferioribus ad Theologiam applicemus, et Ethnicis ut malae fidei possessoribus eripiendo, Christo qui veritas est asseramus et vindicemus, ad Templi mystici aedificium, ut olim tabermaculum auro Ægyptio exornavit Moses, et Sidoniorum et Tyriorum opera in extruendo Templo usus est Salomo. 2. Ut sit testimonium con sensus in rebus natura notis, quo sic ex gemina revelatione veritas et cer titudo ipsarum magis confirmetur. 3. Ut sit organum clare res percipi endi, et recte de iis disserendi, judicando de vero et falso, consequente et inconsequente, juxta regulas bonae et necessariae consequentiae, naturae rationali a Deo impressas, praeeunte Verbi Divini luce, de quo actum supra Quaest. X. Quamvis enim Ratio Religionis principia sumat a
+          lumine fidei, tamen hoc lumine praetereunte ex hisce principiis debet judi care, quomodo partes doctrinae cœlestis inter se cohaereant et se mutuo stabiliant, quid cum illis consentaneum, quid ab illis sit dissentaneum. 4. Ut animus excolatur et praeparetur in disciplinis inferioribus, ad tracta tionem et susceptionem scientiae altioris. Quod ita tamen sobrie praestan dum, ne nimius Philo$ophiae nos capiat amor, ut eam semper ancillae loco habeamus, non Dominae, juxta illud Clemen. Aleae. Philosophia Theologiae se submittat, ut Agar Sarae, patiatur se admoneri et corrigi; sin minus pareat, ejice ancillam.
+          Usus Philosophiae. fid</p>
+        <p>VI. Sed multiplex etiam abusus ejus potest observari. 1. Quum ea quae Philosophia de rebus sibi subjectis et in ordine inferiori vere pronunciat, ad mysteria Theologiae transferuntur; v. g. ex nihilo nihil fieri, a privatione ad habitum non dari regressum, Virginem non esse matrem, etc. quia fit μετάφασις ιίς άλλο γίνος, et quod Philosophia tra
+          Et abusus.
+          
+          dit, de regno suo, et de causis naturalibus intelligendum est, non de regno gratiae et in ordine supernaturali.; Peccant ergo qui hinc argutantur contra Creationem mundi, Incarnationem, et Resurrectionem mortuorum, quia haec Scriptura fieri docet, non per virtutem causarum naturalium, sed per omnipo tentiam Dei. 2. Quum praetextu Philosophiae, falsa placita Philosophorum assumuntur, et ex illis errores in Theologia extruuntur vel defenduntur, qua lis est opinio Aristotelis de aetermitate mundi, Platonis de Igne purgatorio, Stoicorum de fatali rerum necessitate, etc. At Errores Philosophorum non sunt decreta Philosophiae, ut errata Artificum non sunt imputanda ipsi arti. Philosophia, inquit Clem. Stro. 1, non est dicenda Stoica, nec Platonica, aut Epicurea, aut Aristotelica, sed quaecunque ab his sectis recte dicta sunt, hoc totum selectum dicendum est Philosophia. 3. Quum Philosophia circa arti culos fidei magisterium sibi assumit, non contenta ministerio, quod factum a Scholasticis qui Aristotelem in throno collocarunt, et a Socinianis qui mysteria Trinitatis, Incarnationis, etc. nolunt admittere, quia Philosophiae principiis non videntur congruere. 4. Quum novi termini et phrases e Phi losophia in Theologiam inferuntur citra necessitatem, sub quibus nova saepe et periculosa latent dogmata.</p> 
+        <p>VII. Aliud est a Philosophia negari; Aliud ab ea non doceri : Non negamus varia mysteria Theologica non do ceri in Philosophia; sed non sequitur ea negari ab ipsa, quia limites scientiarum non sunt confundendi; Ut Geometrica non trac tat Medicus, nec Physica Jurisconsultus, Ita intra terminos suos contineri debet Philosophia, nec falcem in alienam messem immittere ; licet ergo nihil de Trinitate et Incarnatione tradat, non propterea illa mysteria negare censenda est.</p>
+        <p>VIII. Paulus Col. ii. 8, veram Philosophiam in se spectatam non dam nat, sed vanam et falsam, quae erat in Philosophis illius aevi, a quibus doc trina Evangelii corrumpebatur, qualis semper reperitur in concreto, quum fertur extra proprios limites, et judicium sibi sumit de rebus supernatura libus et divinis, quo respiciunt ista Prudentii, lib. 2, contr. Symma.
+          Fontes Solu
+          tionum.
+          Quippe minor matura aciem si intendere tentet Acrius, ac penetrare Dei decreta supremi, Quis dubitet victo fragilem lassescere visu, Vimque fatigatae mentis sub pectore parvo Turbari invalidisque hebetem succumbere curis ?
+          Sed facilis fidei via, §c.
+          Talem autem Philosophiam Paulum intelligere patet 1. ex descriptione addita, quia eam vocat xw¥• rarì» vanam deceptionem. 2. ab exemplo de Angelorum cultu, v. 18, qui verae Philosophiae dogma non est, sed car cinoma. 3. a pari, quia Paulus damnat ri£avaxoyiw, v. 4, non omnem, $iquidem et ipse ea usus legitur non $emel, sed ragzxeyi%ovoa»; Ita non damnat omnem Philosophiam, sed tantum male sanam et deceptricem, qua lem scilicet Pseudapostoli invehere conabantur, ut sic a simplicitate et veri tate Evangelii fideles abducerent, dum sub praetextu arcanae cujusdam sapientiae obtrudere satagebant Colossensibus novas et erroneas doctrinas de cultu Angelorum, ex Platonicorum lacunis forte traductas; vel ragaxe ^yvvuoi, et sophismatibus studebant Caeremoniarum legalium, et Traditionum humanarum usum et necessitatem commendare, et sic paulatim a Christo ad Mosem eos reducere.</p>
+        <p>IX. Apostolus Rom. i. 21, 22, non damnat veram Philosophiam, sed tantum abusum ejus; nec loquitur de Philosophia, sed de Philosophis, qui
+          inani sapientiae suae opinione turgidi, vani fiebant in ratiociniis suis. Ita quum disputat Act xvii, Athenis contra Stoicos et Epicureos, non rejicit propterea Philosophiam in se, sed dogmata tantum illorum Philosophorum, qui fidem unius veri Dei et Jesu Christi, et resurrectionem mortuorum oppugnabant.</p> 
+        <p>X. Absurde ex eo quod Deus est Philo$ophiae et rationis naturalis author, infertur quod haec Scripturae sit interpres. Illius enim Deus est author per naturalem parigaa», in statu hominis corrupto, quantum ad veri tates matura adhuc notas : Hujus vero per gratiosam roxxv^Jw in statu restituendo per gratiam, quantum ad mysteria rationi inaccessa. Nec quia Deus author est Philosophiae, eo ipso statim author est interpretationum, quas elicit hic et ille Philosophus.</p> 
+        <p>XI. Si aliquando Patres durius contra Philosophiam loquuti sunt; ut Tertull. contra Hermoge. c. 8, dum ait Philosophos esse Haereticorum Pa triarchas, et de Praescript. adv. haeret. c. 7. Quid Athenis et Jerosolymis, quid Academiae et Ecclesiae, quid Haereticis et Christianis ? nostra institutio de porticu Solomonis est, non Zenonis : viderint qui Stoicum et Platonicum et Dialecticum Christianum attulerunt. Nobis curiositate opus non est post Jesum Christum, nec inquisitione post Evangelium, etc. Cypri. lib. 4, epist. 2; Lactant. lib. 3, c. 13; et alii, non veram damnant Philosophiam intra ter minos manentem, sed falsam et temerariam, quae immiscere se audet rebus supra captum suum, et Philosophos illius temporis, qui fidei Christianae hostes erant acerrimi.</p>
+        <p>XII. Licet Apostoli sine subsidio Philosophiae Theologiam docuerint, mon sequitur et nos hoc posse ; quia ab extraordinaria et immediata Dei institutione, quae necessaria erat primis illis nascentis Ecclesiae primordiis, ad ordinariam et mediatam, quae sit studio et subsidio disciplinarum infe riorum, non valet consequentia.</p> 
+        <p>XIII. Licet Theologia multa tradat, quae ignorat Philosophia; non se quitur aliquid falsum esse in Philosophia, quod Theologice verum est, quia verum vero non repugnat, nec lumen lumini contrarium est; 8ed caven dum ne veritates Philosophicae ultra sphaeram suam et vires ordinarias na turae extendantur, ad ea quae sunt supernaturalis revelationis aut potentiae, et physica cum hyperphy$icis, humana cum divinis confundantur; v. g. in Philosophia verum est, Virginem non parere, Corpus grave deorsum ferri, Ignem urere admota materia, Ex nihilo nihil fieri, etc. quibus contrarium Theologia statuit; Sed non sibi propterea adversantur, quia xar' άλλα xai êxxo ista dicuntur. In Philosophia negantur secundum leges naturae; in £gogi- vero affirmantur respectu omnipotentiae divinae, et supernatura iter.</p>
+        <p>XIV. Quamvis Philosopho concedi posset, ad tutiorem rerum naturae indagationem, ut a dubitatione incipiat; perperam tamen hoc ad res Theo logicas et fidei traheretur, quae certis et indubitatis nituntur principiis et veritatibus per se notis, de quibus dubitare est nefas ut de Dei existentia, nisi velimus conscientiam exuere, et dependentiam moralem a Creatore, quae sine crimine excuti non potest vel ad momentum, ejerare; atque adeo ixsx).» Academicam in religionem invehere, et Theologiam totam Scepticam reddere.</p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

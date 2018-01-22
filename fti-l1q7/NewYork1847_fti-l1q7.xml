@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 7</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 7</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q7">
+        <head>Locus I, Quaestio 7</head>
+        <head type="question-title">An Theologia sit Theoretica, an Practica ?</head>
+        
+        <p>I. Primi Questionem hane moverunt Scholastici, inter
+          quos diu multumque jam olim agitata fuit. Quidam voluerunt Theologiam $impliciter esse speculativam, ut Henricus in summa artie. 8, q. 3. Durandus in proleg. sent. q. 6. Joannes Rada controv. 3.
+          Alii simpliciter practicam, ut Scotus cum suis. Alii nec Theoreticam, nec Practieam, $ed potius affectivam vel dilectivam, altiorem scilicet disciplinis Theoreticis et Practicis; utpote cujus finis sit charitas, quae sub praxi non contineatur, ut Bonavent., Alberius, Ægidius Romanus. Alii denique mix tam, speculativam scilicet et practicam simul, sed magis speculativam, ut Thomistae ; vel magis practicam, ut Thom. de Argentina.</p> 
+        
+        <p>II. Quaestio non modo necessaria est ad intelligendam veram Theologiae naturam; sed etiam propter Controver sias hujus temporis, maxime contra Socin. et Remonstrantes, qui Theolo giam ita stricte practicam dicunt, ut nihil in ea praecise ad salutem neces sarium sit, nisi quod pertinet ad praecepta morum et promissiones; unde Obedientia praeceptorum et fiducia promissionum, Religionem totam quoad fundamentalia absolvunt, seclusa mysteriorum notitia; Quo fine obscurum nom est, ut elevent necessitatem cognitionis dogmatum de Trinitate et Incarnatione, etc. et sic viam facilius sternant ad Religionem communem, per quam omnes promiscue servari possint, id est ad Atheismum. Inter Orthodoxos nonnulli etiam mere practicam, plures mixti generis; sed alii magis speculativam, alii magis practicam statuunt. Ad quos accedimus, censemusque Theologiam nec esse simpliciter Theoreticam, nec simpliciter Practicam; sed partim Theoreticam, partim Practicam, utpote quae simul conjungit theoriam veri et praxim boni; magis tamen esse practicam quam theoreticam. q„ia .i. pi..i„ii. ,</p> 
+        <p>III. Disciplina theoretica dicitur, quae, in sola cQntem na Theoretica' et platione occupatur, et finem alium non habet a cognitione; Practica. Practica, quae non subsistit in sola rei notitia, sed natura
+          sua et per se tendit ad praxim, et pro fine habet operationem. Rursus, Notitia aliqua potest ad operationem tanquam ad finem dirigi duobus modis, vel absolute et per se, vel secundum quid et per accidens: Illa notitia per $e ad praxim dirigitur, quae secundum maturam illius disciplinae ad quam pertinet ad operationem refertur; quomodo notitia rerum Ethica rum est practica, quia matura Ethicae postulat, ut quaecunque in ea trac tantur ad operationem et usum referantur: Illa notitia per accidens ad operationem refertur, quae non est practica secundum naturam illius disci plinae ad quam pertinet, sed tantum ratione finis quem sibi proponit is qui ea notitia praeditus est; sic Physica est practica per accidens, quando is qui ea notitia praeditus est, eam ad operationem aut usum dirigit. Theo logia non posteriori tantum sensu, sed priori dicitur practica.</p> 
+        <p>IV. Scientia per se practica, non ea tantum dicitur quae est de re oper abili, estque regulativa et directiva alicujus operationis ; alias ea Medicinae pars quae considerat partes humani corporis, et partium morbos, et signa et causas morborum, esset speculativa et nom practica, quod absurdum; quia ultimus et praecipuus finis illius partis Medicinae, non est morborum cog mitio sed curatio: Sed etiam ea, quae vel est impulsiva ad operationem, ut notitia bonorum vel malorum quae sequuntur virtutem vel vitium, impellit ad honestas actiones; vel est praerequisita ad melius operandum et agen dum, ut pars ra£•xoyixi, in Medicina. Theologia non dicitur tantum prac tica priori sensu, sed etiam secundo et tertio; quia nullum est Mysterium quod contemplationi nostrae tanquam credendum proponitur, quod non incitet nos ad Dei cultum, vel ad eum feliciter instituendum non praere
+          quiratur.</p> 
+        <p>V. Argumenta quae probant Theologiam vel esse Theoreticam vel prac ticam, si exclusive de alterutra accipiantur, deficiunt et nimis eam restrin gunt; sed si inclusive intelligantur pariter vera sunt; Quia Theologia non est generis simplicis, id est vel tantum Theoretica, vel tantum praetica,
+          Et momentum.
+          prout Physica et Ethica in Philosophia, sed mixti quod utramque σχέσιν
+          includit.</p> 
+        
+        <p>VI. Theologiam esse mixtam id est partim theoreticam, Tíôïéïicò prìc. partim practicam evincunt, 1. Objectum, Deus cognoscen tica. dus et colendus, ut primum Verum, et summum bonum.
+          2. Subjectum, Homo perficiendus cognitione veri quo illustratur intellectus, et amore boni quo ornatur voluntas, fide quae ad turrę, et charitate, quae
+          ά
+          ad rgaxr extenditur. 3. Principium ; tum eaeternum, verbum Dei quod Legem et Evangelium, illa quae facienda, istud quod credenda et cógnoscenda proponit, unde Mysterium pietatis et Verbum vitae dicitur; tum internum, Spiritus, qui Spiritus est veritatis et sanctificationis, scientiae et reverentiae Jehovae, Isa. xi. 2. 4. Forma, quae verae Religionis essen tiam complectitur, quae cognitionem et cultum Dei postulat, quae inter se indivulso nexu copulantur, ut in Sole lux et calor nunquam a se invi cem separantur. Ideo nec cognitio Dei potest esse vera, nisi quam praxis comitatur, Joan. xiii. 17; 1 Joan. ii. 5. Nec praxis recta et salutaris, nisi quae a cognitione dirigitur, Joan. xvii. 3. Unde Lactant. lib. 1. cap. 1, Nec ulla Religio sine sapientia suscipienda est, nec ulla sine Religione pro banda sapientia. Et lib. 3, de falsa Sapi. cap. 3. Omnis sapientia hominis in hoc uno est, ut Deum cognoscat et colat, Et lib. 4. cap. 4. Non potest nec Religio a sapientia separari, nec sapientia a I?eligione secerni, quia idem Deus est, qui et intelligi debet, quod est sapientiae, et honorari quod est Reli gionis ; sed sapientia praecedit, Religio autem sequitur, quia prius est Deum scire, consequens colere. Ita in duobus nominibus una vis est, quamvis diversa esse videatur ; alterum enim positum est in sensu, alterum in actis, attamen similia sunt duobos rivis eae uno fonte manantibus, etc. 5. Finis, hominis beatitudo, quae partim in visione Dei, partim in ejus fruitione posita est, ex qua utraque oritur assimilatio Dei, Joan. xiii. 17.</p>
+        
+        <p>VII. Ut scientia quaedam sit mere practica, requiritur *°"';'j'"** uium. Theoretico-practica quidem ut oljectumsufficit, `sit xgax**, non etut operabile; objectum adsedpraxim ut sit
+          perducatur, sed ut praxis circa illud operetur: Ita Deus non est quidem zrgaxrës, sed circa illius cultum et amorem praxis debet occupari. Deinde, licet objectum materiale non sit rgaxrà», tamen objectum formale, nimirum Deus qua supernaturaliter in Verbo revelatus est, partim 9ua gnras, partim xgaxrès dici potest, quia revelatur tum ut cognoscendus, tum üt colendus. VIII. rò Speculativum et Practicum possunt esse differentiae discipli narum inferiorum, ad quas facultas naturalis intellectus pertingere potest; ita ut objectum non possit esse determinatum et ad contemplationem, et ad praxim simul: Sed cum Theologia sit ordinis altioris et eminentioris, inter breves hos naturae cancellos non cohibetur, sed potest speculativum et practicum ambitu suo facile complecti; quomodo sensus communis eminenter continet differentias sensuum externorum, et vita rationalis vitam vegitativam et sensitivam in homine.</p> 
+        <p>IX. Quum vita aeterna dicitur sita in agnitione Dei, Joan. xvii. 3, et felicitas in ejus visione, hoc quidem ostendit Theologiam esse etiam spe culativam, utpote quae multa objecta 4iagnrà habeat; sed non potest inde propterea colligi esse mere speculativam, quia cognitio ista non theoretica tantum est, sed practica, 1 Joan. ii. 5, et visio non cognitionem tantum, sed et fruitionem ex usu Scripturae notat.</p> 
+        <p>X. Disciplina potest dici practica, vel respectu finis ultimi, quia desti natur ad operationem tanquam ad finem suum, vel etiam respectu objecti, quia versatur circa objectum rgaxrà», quod cadit sub voluntatem et actio
+          22 1.OCUS PrIMUS. [QUaest. viii. *.
+          nem hominis. Priori sensu Theologia vocatur practica, nou posteriori, quia praeter materias mere practicas, habet etiam multas theoreticas quae constituunt dogmata fidei.</p> 
+        <p>XI. Licet notitia Dei et attributorum eju8 non sit stricte practica, qua tenus practicum notat id quod est regulativum alicujus operationis, ut res cognita agatur; ut notitia Legis est regula obedientiae, et actuum morali ter bonorum; est tamen practica, prout practicum dicit id quod movet et impellit ad operationem, ut, si res cognita non agitur, tamen ad actionem moralem incitet; Nam ideo Deus se nobis cognoscendum praebet, ut eum colamus; ideo potentiam suam nobis patefecit ut eam revereamur, et boni
+          tatem ut eam amemus.</p>
+        <p>XII. Theologia consideratur vel abstracte in objecto, vel in subjecto concrete. Quamvis Theologus impius eam non transferat ad praxim, non desinit esse praetica in se, quia abusus subjecti non evertit legitimum usum obiecti.</p> 
+        
+        <p>XIII. Theologia Comprehensorum non potest dici mere Theoretica,
+          quia beatitudo compleetitur non modo summi boni apprehensionem per visionem quae est in intellectu ; sed et illius fruitionem per amorem qui est actus voluntatis.</p>
+        <p>XIV. Theologia ita est Theoretico-Practica, ut non dicenda sit mere Practica, sed etiam Theoretica, ut mysteriorum notitia pars ejus sit essen tialis. 1. Quia cognitionem veritatis Deus non minus praecipit et urget, ac obedientiam praeceptorum, Jer. xxxi. 34. Imo et vita aeterna in Dei cognitione ponitur, Joan. xvii. 3. Nec dicendum cum Schlichtingio agi de cognitione voluntatis per Christum in Evangelio patefactae, sed non de cognitione naturae; Quia textus docet agi non tantum de voluntate, sed praecipue de natura, ut cognoscant te, etc., nimirum esse verum Deum, quod naturam non voluntatem notat. 2. Quia ex notitia oritur fides, ex qua pendet Religio, Rom. x. 17. 3. Quia Symbolum Apostolicum quod juxta Socinianos continet Religionis compendium et ejus articulos, agit tantum de credendis, non de faciendis. 4. Quia cognitio Dei ponitur pro universo cultu, Jer. xxxi. 34; Is. liii. 11; 1 Joan. ii. 3.</p> 
+        <p>XV. Theologiam tamen magis esse practicam quam speculativam, patet ex fine ultimo qui est praxis; licet enim omnia mysteria non sint regulativa operationis, sunt tamen impulsiva ad operationem ; Nullum enim est tam £iegnrà» et a praxi remotum, quin incitet ad Dei admirationem et cultum; neé Theoria salutaris est nisi ad praxim revocetur, Joan. xiii. 17; 1 Cor. xiii. 2; Tit. i. 1; 1 Joan. ii. 3, 4; Tit. ii. 12.</p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

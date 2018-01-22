@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 2</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 2</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q2">
+        <head>Locus I, Quaestio 2</head>
+        <head type="question-title">An sit Theologia, et Quotuplex ?</head>
+        <p>I. Dari Theologiam multa probant, 1. Natura et Boni tas Dei, qui cum sit optimus, sui maxime est communica tivus, non autem se communicat creaturae rationali com modius et humanae naturae convenientius, quam per sui cognitionem et amorem. 2. Populorum consensus, et affectus innatus omnibus cognoscendi Deum, qui vanus esse nequit; Licet enim a vera Theologia turpiter aberrârint, talem tamen dari eam consectando comprobârunt; Unde nulla tam barbara natio unquam reperta est, quae suos hierophantas non ha buerit, qui in rebus divinis cognoscendis et docendis se occuparent. 3. Finis Creationis; ideo enim Creaturas rationales condidit Deus, ut ab illis agnosceretur et celebraretur, quod sine Theologia fieri nequit. 4. Rei natura, quia quae duo ad constitutionem disciplinae requiruntur τὸ γνωστὸν seu objectum scibile, et τὸ γvao-ruxò» seu subjectum cognoscitivum hic occurrunt, Deus scilicet τὸν ἐπιστητὸν ἐπιστήτὸraro», et Creaturae rationales intellectu
+          praeditae ad eum cognoscendum. 5. Salutis necessitas ; ut enim homo ordinatur ad finem supernaturalem, necesse est illi dari medium super maturale quo finem illum assequatur, quod non aliud est quam fides, quae Dei cognitionem necessario infert.</p> 
+        <p>II. Licet entia omnia tractentur im Disciplinis Philo$ophieis, non tractantur tamen secundum omnia quae de ipsis cognosci possunt, sed tantum secundum illud quod de ipsis naturaliter percipi potest, unde ex latitudine objecti Philosophici nullum infertur praejudicium Theologiae supernaturali, quae de Entibus quibusdam agit, non qua per naturam, sed qua per revelationem cognoscuntur. 2. Quamvis omnia Entia naturalia tradantur in inferioribus scientiis, non tollitur tamen necessitas Theologiae, ubi mysteria varia docentur supernaturalia, ad quae nulla humana scientia unquam pertigit.</p> <p>III. Etsi sensus nulla indiget cognitiome supernaturali ad sui perfec tionem, non $equitur mec intellectum ea indigere, quia intellectus ad finem supernaturalem ordinatur, qui comprehensionem rationis excedit, Sensus autem minime. Quamvis vero haec intellectus indigentia imperfectionis nota sit respectu finis nondum adepti, et ut significatur finis absentia, tamen perfectionem etiam designat respectu capacitatis ad obtinendum
+          finem.</p>
+        <p>IV. Metaphysica est scientia omnium suprema in ordine maturali, sed se superiorem agnoscit Theologiam in ordine supernaturali. Quod vero dicitur apud Philosophos, scientias distingui per majorem aut minorem abstractionem, atque adeo scientiam, quae maxime omnium abstrahit a
+          materia, ut Metaphysicam, esse omnibus superiorem, intelligendum est de scientiis mere theoreticis, et quae nonnisi circa res universales versantur, quaeque sunt ordinis naturalis; Illae enim suum sibi objectum per mentis abstractionem constituunt; et quo majori abstractione utuntur, eo sunt superiores; Sed non potest accommodari ad Theologiam, quae mixta est ex theoria et praxi, quae omni ordine naturali superior est, et suum sibi objectum per aliquam abstractionem non constituit, sed constitutum et distinctum accipit a Revelatione.</p>
+        <p>V. Theologia diversimode distingui solet. 1. Im veram 3;££;;! et falsam. Falsa et aequivoce ita dicta, quae est doctrina erronea de Deo ejusque cultu, varia est. Primo Gentilium, quam multiplicem fuisse constat; unde Plato lib. 2, de Repub. geminam illam statuit, ovu£•Aux*, sive μνθικῶν, quae signorum involucris implicita continebatur, sub quibus divina docere mysteria Gentilium, prae$ertim Ægyptiorum, mos erat, et φιλοσοφικά, seu ae3uxrix», quae in rerum divin arum commentatione occupabatur; Varro apud Aug. lib. vi. de Civitate Dei cap. 5, et lib. viii. cap. 1, triplicem facit, uv%x\v seu fabulosam Poëta rum, quae scenis et theatris erat destinata, rexitux» seu civilem Sacerdotum et Populi, quae publicè exercebatur in Templis, juxta cujusque urbis et gentis ritus, et φναιxì» seu naturalem Philosophorum, quae in scholis doce
+          
+          batur, unde et Poëtae ob £uoAoyovuivovg uv£ovs, et Philosophi, et Sacerdotes Theologi dicti apud Justi. cohort. ad Graec. et Clem. Aleae. strom. 5; prae cipua vero Theologiae ipsorum pars fuit Sioyovia; expositio, quia Deos gemitos fuisse putabant. Secundo Infidelium et Haereticorum, qui vel Christum plane rejiciunt, ut Judaei, Mahummedani, etc. vel qui Christi momen retinent, sed in fundamentalibus cum Dei Verbo pugnant, qualis est Theologia Pontificiorum, Socinianorum, et aliorum idgenus haereticorum. Licet enim eorum Theologia aliquid veri habeat; quia tamen maxima ex parte falsa est, et peccat in fundamentalibus, recte falsa dicitur, denomi natione facta a potiori.</p>
+        <p>VI. Theologia vera distribuitur, 1. in infinitam et increatam, quae tum est essentialis Dei de seipso cognitio Matth. xi. 27, im qua Deus solus est simul irua-rnrì», ίπιστήμων, et iruot*um, tum id quod de seipso decrevit nobis revelare, quae vulgo Archetypa dicitur; Et finitam ac creatam, quae est infinitae illius ae aeg^rotvrov effigies, et iwrvxov, Creaturarum scilicet de Deo et rebus divinis notitia, a suprema illa efformata et creaturis intelligentibus communicata, Vel per unionem hypostaticam animae Christi, unde oritur Theologia Unionis ; Vel per visionem beatificam Angelis et Beatis, qui non ambulant per fidem, sed per aspectum, quae dicitur Theologia Visionis; Vel per revelationem quae fit Viatoribus, iis puta qui ad metam nondum pervenerunt, et vocatur Theologia Revelationis, seu Stadii.</p> 
+        <p>VII. Secundo, Theologia revelationis rursus dividitur in naturalem et supernaturalem. Naturalis quae versatur circa rà yvavròv τοῦ Θεοῦ, tum insita ex impressis cuique notionibus communibus, tum acquisita ex discursu per creaturas, quae in Adamo quidem integro fuit exquisita, $ed in homine corrupto perturbatissima. Supernaturalis, quae rationem nostram tran scendit, et nobis a Deo communicatur movo gratiae lumine, ut ad summi boni fruitionem deveniamus, quae tum Patriarchis revelata est, tam ante quam post diluvium ; tum per Mosem a Deo populo Israëlitico tradita, et Veteris Testamenti dicitur; vel N. T. quae Christiana peculiariter vocatur, quia Christum authorem et objectum habet, est a Christo Joan. i. 18, et de Christo agit Act. i. 1 ; 1 Cor. ii. 2, et Revelata stricte vocatur, quia prin cipium ejus est divina Revelatio stricte sumpta, et facta per Verbum, non er Creaturas.</p>
+        <p>VIII. Theologia supernaturalis consideratur, Vel systematice prout notat compagem doctrinae salutaris de Deo et rebus divinis ex Scriptura expressae, per modum disciplinae alicujus in sua praecepta certâ methodo dispositae, quae et abstractiva et objectiva dicitur; Vel habitualiter et per modum habitus in intellectu residentis, et concretiva et subjectiva vocatur : Rur su8 Theologia habitualis, vel est habitus principiorum, quo unusquisque fidelis res a ratione alienas et remotas percipit, vel habitus conclusionum quo ex principiis fidei lumine notis doctrinam salutarem explicamus et con
+          rmamus.</p>
+        <p>IX. Ut triplex datur Schola Dei, Naturae, Gratiae et Gloriae, et triplex Liber, Creaturae, Scripturae et Vitae ; Ita trifariam solet distingui Theologia, ut prima sit naturalis, secunda supernaturalis, tertia beatifica; prima ex lumine rationis, secunda ex lumine fidei, tertia ex lumine gloriae : illa est hominum in mundo, ista fidelium in Ecclesia, haec beatorum in cœlo. X. Licet Theologia agat de diversis rebus, et ad diver sas scientias pertinentibus, non desinit esse una, quia agit de illis sub eadem ratione formali, prout sunt res divinae Verbo Dei nobis revelatae. Unitas autem doctrinae pendet ab unitate ob jecti, non materialiter, sed formaliter considerati. Unde si aliae disciplinae tractant de variis in Theologia contentis, non de illis tractant eodem modo, nec sub eadem ratione formali ; Nam Theologia de illis agit, quatenus nobis Verbo Dei sunt revelatae. Deinde eas considerat juxta causas re motas, puta efficientem primam a qua sunt, et finem ultimum ad quem referuntur, non autem proximas; et juxta accidentia supernaturalia, non naturalia.
+        </p>
+        <p>XI. Aliud est Theologiam esse unam quoad substantiam et genus doctrinae, Aliud quoad modum tractandi ; posteriori sensu potest dici multiplex juxta varium raòsia; vgözro, secundum quem tradi potest, et sic in Didacticam, Problematicam, Elencticam, Casuisticam, etc. distribuitur; sed priori sensu nec est, nec potest esse multiplex, quia unum idemque genus doctrinae semper in ea traditur. XII. Hinc etiam patet posse eam differre secundum magis et minus, quoad varios gradus revelationis, prout vel obscurior est sub Veteri Testa mento, vel clarior sub Novo, vel perfectior vel imperfectior pro ratione subjectorum ; sed non inde sequitur eam differre quoad speciem, quia eadem substantia doctrinae utrobique retinetur, ut Christus idem est heri, hodie et in secula. Heb. xiii. 8.</p>
+        <p>XIII. Non perit Theologiae sua Unitas licet dicatur partim theoretica, partim practica; quia scientia quaevis una dicitur, non unitate simplici et absoluta, quae unitas numerica et individualis dicitur, quasi esset una et simplex qualitas v. g. albedo in pariete ; sed unitate aggregativa quae dici tur unitas collectionis, quatenus scilicet multi speciales habitus conflantur et ordinantur ad unum totalem scientiae habitum constituendum. Sic
+          Imago Dei una est, licet novitatem mentis et affectuum complectatur, et Liberum Arbitrium unum, licet in intellectu et voluntate situm sit.</p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

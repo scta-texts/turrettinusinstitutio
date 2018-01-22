@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 1</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 1</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q1">
+        <head>Locus I, Quaestio 1</head>
+        <head type="question-title">An theologiae vox usurpanda sit in scholis Christianis; Et quod modis sumatur?</head>
+        <p>I. CUM ex accuratae Methodilegibusnecesse sit aegórov i%*ra3es •rà òvóuaera, id. usum et vim nominum prius eaependere, ut e usurpatur. - - ^
+          vult Philosophus, quia verba sunt rerum τύποι: de voce Theologiae quaedam praemittenda sunt, antequam ad rem ipsam veniamus. Licet autem quaestio proposita parum necessaria videatur, in eommuni et recepto apud plerosque omnes istius vocis usu, qui eam tanquam voca bulum τεχνικῶν, quod proprie et emphatice subjectum suum declarat, retin �ndam censent; Occurrendum tamen est monnullorum sententiae, quibus momen hoc displicet, eo quod in Scriptura non extet, et ad Ethnicorum mataeologiam significandam usurpari $oleat, quique convenientius judicant vocibus aliis ex Scriptura petitis uti.</p> 
+        <p>  II. Licet vox Theologiae non sit £yyga¢os aùroxi%i, non est tamen plane àyg2®os; siquidem voces simplices ex quibus componitur, ibi saepe occur runt, ut λόγος τοῦ θεοῦ, et λόγια ταῦ θύεὐ, Roman. iii. 2, 1 Pet. iv. 10, Heb. v. 12. Aliud ergo est esse in Scriptura quoad sonum et syllabas, sive formaliter et in abstraeto; Aliud quoad sensum, et rem significatam, seu materialiter et in concreto; Theologia non extat in Scriptura priori modo, sed posteriori.</p>
+        <p>III. Quamvis non liceat dogmata ulla fingere extra Scripturam; licet tamen uti nonnunquam verbis, quae in Scriptura non reperiuntur, si com moda sint, vel rebus divinis explicandis, vel erroribus praecavendis; quem in finem voces Triadis, άμοναῖον, Peccati originalis, et similes a Theologis sunt usurpatae.</p> 
+        
+        <p>IV. Licet Ethnici saepe abusi sint hac voce ad suam mataeologiam designandam; non obstat hoc tamen, quominus, quod illi falsae et Jsv3a víuae suae Theologiae nomen male tribuebant, verae et salutari doctrinae nostrae vindicetur. Quomodo nomen Dei, quod falsum et fictitium Deum apud Ethnicos significabat; et nomem Ecclesiae, quod Coetum profanum designabat; in Scriptura saniore sensu de vero Deo, et de Coetu Sancto rum accipitur. Ita vox Theologiae quae origine graeca est, e Gentilium scholis translata est ad usus sacros, ut olim vasa Ægyptiorum ab Israëlitis sacris destinata sunt usibus.</p>
+        <p>V. Non negamus varia esse symonyma in Scriptura, quibus doctrina eoelestis designatur, ut quum dicitur sapientia in mysterio, 1 Cor. ii. 7, forma saniorum sermonum, 2 Tim. i. 18, cognitio veritatis secundum pieta
+          
+          tem, Tit. i. 1, doctrina, Tit. i. 9, et aliis idgenus vocibus exprimitur. Sed non minus ideo momen hoc retineri potest et debet, quia et longo usu receptum est, et commodissimum est doctrinae isti salutari exprimendae.</p> 
+        
+        <p>VI. Vocem Theologiae apud Gentiles in usu fuisse constat. Qui enim de Deo sublimia dicebant, vel Deorum cultum explicabant, vel eorum natales, conjugia, progeniem, imperia et res gestas explicabant, ipsi Theo logi sunt appellati, et eorum scientia Theologia, ut notant Lactan. de Ira
+          Dei c. ii. $Alex. strom. 3. Isido. lib. 5. Aristo. metaph. 3.</p>
+        <p>VII. Nomen Theologiae inter Christianos vel sumitur inadaequate, a parte efficientis ut sonat Θιά Aóyo, Sermo
+          nem Dei, et a parte objecti A6yo» aeig τά Θsev Sermonem de Deo; vel adae quate prout notat utrumque, et sermonem Dei, et sermonem de Deo, quae duo conjungenda sunt, quia de Deo sine Deo loqui non possumus. Ut no tetur doctrina, quae originaliter est a Deo, objective de Deo agit, et termi native in Deum fertur, et ad Deum ducit, quod non male Thomas 1a 1ae q. 7. exprimit, Theologia a Deo docetur, Deum docet, et ad Deum ducit. Sic complectitur ista nomenclatio duplex Theologiae principium, unum essendi, quod Deus est, alterum cognoscendi, quod est Verbum ipsius.</p> 
+        <p>VIII. Rursus trifariam sumitur apud Authores. 1. Late. 2. Stricte. 3. Secundum justam significationis suae amplitudinem. Primo modo accommodatur Metaphysicae quo sensu Aristot. primam Philosophiam vocat Theologiam, lib. 6. Met. cap. 1. et lib. 10. Philo$ophiam Theoreticam dividit in tres partes, φυσικῶν, μεθαμaτικόν, et θεολοyixwv. Secundo, Patres Theologiae nomine peculiariter designant illam doctrinae Christianae partem, quae de Christi Divinitate agit, quo sensu Joannes singulariter Theologus est nominatus, quia fortiter prae caeteris rìv rov λόγον θεότηra, asseruit, ut ex ponere videtur Apoc. i. 2, et Gregorius Nazianzenus inter reliquos Patres nomen Theologi obtinuit, quia Christi Divinitatem variis Orationibus de monstravit; Unde distinctio apud ipsos nata %oAoyia; et eixovopaias, Theo logiae et Oeconomiae; illâ doctrinam de Divinitate Christi, istâ doctrinam de ejusdem Incarnatione intelligunt, et θεολ•yii, Iwvevo ipsis est, de Christi Divinitate disserere. Euseb. hist. Eccl. lib. v. cap. 28. Basilii. lib. ii. c. Eunomi. et Nazian. Ora. 42 et 49. Tertio maxime proprie motat Syn tagma seu Corpus doctrinae de Deo et rebus divinis, a Deo ad suam gloriam, et hominum salutem revelatae, quo sensu hic a nobis sumitur.</p> 
+        <p>IX. Usus nominis Theologiae, vel est aequivocus et abusivus, quando tribuitur falsae Theologiae Ethnicorum et Haereticorum; Vel minus pro prius, quando effertur de originali et infinita Sapientia, quae a nobis in Deo concipitur seipsum ineffabili et perfectissimo modo cognoscente; hoc enim nomen rei ipsius dignitatem assequi non potest; Vel de Theologia Christi; Et de Theologia Angelica; Vel proprius, quando tribuitur Theo logiae hominum Viatorum, quae in maturalem et supernaturalem distingui tur, ut infra dicetur.
+          Usus Nominis.</p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

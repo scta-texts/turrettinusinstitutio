@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 11</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 11</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#U" n="1"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q11">
+        <head>Locus I, Quaestio 11</head>
+        <head type="question-title">An aliquis sit usus testimonii sensuum in Mysteriis fidei; 
+          An penitus sit repudiandum ? 
+        </head>
+        <p>I. Quaestio haec nobis movetur a Pontificiis, qui ut ele °°';;;.$"** 1on1s. mentum vent ärgumentum Transubstantiationis, qu9d petimus et Praesentiae ad impugnandum carnalis Christi com
+          in Eucharistia, et ad confirmandam veritatem substantiae panis et vini, ex Testimonio sensuum, quia sensus nihil vident, nihil tangunt et gustant misi panem et vinum, eo deveniunt, ut dicant non esse audiendum in
+          Mysteriis fidei sensuum testimonium, eo quod mysteria sint supra sensum, et fides in eo sita sit ut credamus quae non videmus.</p>
+        <p>II. Licet Orthodoxi nolint sensus audiendos esse in omnibus Mysteriis, pertendunt tamen, suum etiam locum esse debere eorum testimonio, quum agitur de rebus sensibilibus et corporeis, quae sunt in sphaera eorum acti vitatis.</p>
+        <p>III. Ad statum quaestionis, Observandum, Ut tria sunt genera rerum quae cognosci possunt, aliae quae sunt aeuorrai, aliae vorrai, aliae aio-ntai, ita tres esse facultates quae circa illas occupantur, sensum, rationem, et fidem ; et Sensum res sensibiles percipere, Rationem res intelligibiles, Fidem spiri tuales et supernaturales: Ut vero sensus non sibi arrogat judicium de re bus quae sunt objectum rationis; Ita multo minus rationem et sensum posse judicare de rebus fidei, sed unamquamque facultatem proprium ha bere objectum circa quod versatur, quae ut confundi non debent, ita nec sibi invicem sunt opponenda.</p> 
+        <p>IV. Non quaeritur ergo, An sensuum testimonium sit ubique audiendum, ut nihil concedamus nisi quod sensus capere possunt; fatemur enim multa esse mysteria ad quae ratio et multo minus sensus non potest assurgere, qualia sunt mysteria Trinitatis, Incarnationis, etc. Sed quaeritur, Quum sensus judicant de objecto proprio, neque extra sphaeram suam egrediuntur, An repudiandum sit, An vero admittendum eorum testimonium ; Quaeritur, An fides opponatur judicio sensuum bene ordinato, illudque evertat; quod
+          negamus.</p> 
+        <p>V. Mysteria fidei alia sunt mere spiritualia et posita longissime supra captum nostrum, qualia sunt mysteria Trinitatis, Incarnationis, etc. alia
+          
+          vero quae in rebus sensibilibus et corporeis sita sunt, sive Deus iis utatur tanquàm organis et mediis ad exequenda consilia sua, sive velit nos per illaTevehere ad clariorem cognitionem sublimiorum mysteriorum ; qualia sunt miracula Christi, typi et figurae Veteris Testamenti, Sacramenta Novi. Priora sunt proprie objectum fidei nostrae, nec ullo modo cadunt sub sen sus; sed quoad posteriora, in quibus res spiritualis cum corporea jungitur, res spiritualis manet semper objectum fidei, sed res corporea manet ob jectum sensus. Quaeritur ergo ; An fides utatur testimonio sensuum in rebus corporeis v. g. quum judicat de substantia panis et vini in Eucha ristia, et de absentia Corporis Christi; Am vero illud rejiciat?</p> 
+        <p>VI. Testimonium sensuum non esse rejiciendum patet, 1. Exemplo Christi, qui ad probandam veritatem Corporis sui post resurrectionem provocat ad sensus, videte et pal pate, Luc. xxiv. 39; quod non fecisset omnino, si fallax et dubium esset eorum testimonium : Ita Angelus hoc argumento utitur, Matt. ii. 86. Non est hic, sed suscitatus est; videte locum ubi jacebat, et Act. 1, Apostoli eadem probatione utuntur, dum pollicentur reditum Christi eo modo quo abiit, sic Jo. 1ae c. i. 1, 2, et Pet. c. i. 2ae 17, fundant praecipuam ratio nem veritatis et Divinitatis Evangelii super testimonium sensuum. 2. Quia Deus utitur Verbi praeconio et operum contemplatione ad nos ad fidem adducendos; certum est autem ista media praesupponere non modo usum sensuum, sine quorum ministerio et Verbum et opera Dei nobis ig nota essent, sed etiam fidelitatem et veritatem testimonii eorum; nam si sen sus possent falli, quaenam certitudo posset ingenerari in nobis, vel ex Ver bo, vel ex operibus Dei? 3. Spiritus S. utitur operationibus sensuum ad describendas actiones intellectus, ut visu, auditu, gustu, etc.; quod fieri non posset, nisi certum esset et non lubricum sensus testimonium. 4. Fide litas Dei non patitur ut credamus Deum voluisse illudere hominibus, amandando ad testimonium quod decipere et fallere posset.</p> 
+        <p>VII. Licet sensus non sint ab$olute infallibiles; non sequitur eorum testimonium nullum esse debere; quia variae sunt conditiones quibus positis sensus non falluntur, 1. Ut objectum sit in debita distantia. 2. Ut medium sit purum et im mune ab omni eo quod imaginem corrumpere posset. 3. Ut organum sit legitime dispositum. 4. Ut omnes sensus, saltem qui possunt cognoscere aliquod objectum, consulantur, et idem judicium faciant. 5. Ut sensus attente agant et non praecipitanter, alias possunt decipi. 6. Ut phantasia sit libera, neque in ea vel phrenesis vel febris adsit, alias saepe fieri solet, ut ea credamus videre et audire, quae non videmus aut audimus tamem. Si ad istas conditiones omnes attendimus, patebit, ita concurrere omnes in tes timonio circa veritatem substantiae panis et vini in Eucharistia, ut nulla ratione fallax esse possit vel in dubium revocari.</p> 
+        <p>VIII. Non potest dici facta sensibus illusio, Vel in Maria Magdalena, quae Christum credidit esse hortulanum, Joan. xx. 15, quia decepta fuit judicii praecipitatione, quod statim correxit, quum auribus oculis succur rentibus, agnovit ex voce Servatorem esse. Vel in discipulis Emaunticis, Luc. xxiv. 31, qui non agnoverunt Christum, quia hoc testatur cognitionem eorum fuisse imperfectam et obscuram, sed non falsam, quippe credebant Iverum hominem esse qui incedebat cum ipsis, sed non Christum esse puta bant. Vel in Angelis sub humana forma apparentibus; Nam licet non essent veri homines; vera tamen erant corpora et non phantasmata sub quibus apparebant, et aliquid in illis erat semper, unde discernere poterant non esse meros homines, sed aliquid esse supermaturale, qualis erat splen
+          C
+          Testimonium sem
+          suum probatur.
+          Fontes Solutio
+          mum.
+          
+          dor ille qui eos circumdabat, ut visum in Angelo nuntiante Christi nativi tatem, et vestes candidae sub quibus apparebant Angeli testes resurrectionis Christi; unde non difficile erat sensibus et rationi rectum de illis judicium facere; Quod si nonnulli decepti sunt, ut credibile est hoc non raro conti gisse, error fuit non a parte objecti, quod satis se prodebat, sed a parte subjecti et principii judicii sensuum.</p> 
+        <p>IX. Aliud est a Deo percuti scotomate, ne videatur aliquod objectum recte et clare; Aliud sensus bene constitutos fallere in testimonio quod perhibent de objecto proprio et bene disposito; Prius dicitur de Sodomaeis, Gen. xix. 11, et Syriis militibus. 2. Reg. vi. 18, qui non poterant januam Lothi invenire, et Urbem Samariae agnoscere; sed mon posterius. X. Si Christus evasit per mediam turbam, quae praecipitem eum agere voluit e monte, Luc. iv. 30, non propterea credendum eum Corpus suum reddidisse invisibile et imperceptibile sensibus; sed sese in turba abscon disse, ut se subduceret eorum furori, sive eos scotomate percusserit, sive eorum furorem subito pacaverit, vel represserit, ut volunt Ambrosius et
+          Beda.</p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 6</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 6</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#U" n="1"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q6">
+        <head>Locus I, Quaestio 6</head>
+        <head type="question-title">Quodnam sit Genus Theologiae ?</head>
+        <p>I. Theologia con$ideratur yel Systematice et Qjective giae _ systema- per modum disciplinae, vel habitualiter et subjective, per ticae, Doctrina. modum habitus in intellectu residentis. Primo sensu non
+          aliud genus accuratius illi potest assignari quam Doctrina, quia a Deo docetur et in Ecclesia discitur. Sed doctrina antonomastice talis, omni hu mana longe praestantior, tum ratione originis, tum ratione materiae, tum ratione formae, et finis. Sic passim describitur in Scriptura per 3, 3ag, Joan. vii. 17; 1 Tim. iv. 6 et vi. 3. per rùrov 2aXazâ, Rom. vi. 17, ut in Vet. Test. mnn totam salutis doctrinam notat. Posteriori bene per habi tum aliquem mentis describitur. q„;„ „„
+        </p>
+        <p>II. Ut melius lignoscatur, Quisnam mentis habitus illi illi sit assig- assignamdus sit, Observandum, omnem habitum mentis esse, nandus. vel habitum sciendi, vel habitum credendi, vel habitum opi
+          nandi ; Ut sunt tres assensus mentis ad quos ordinantur, aetus sciendi, credendi, et opinandi : Nam omnis assensus mentis vel nititur testimonio, vel ratione; Si mititur testimomio, est Fides, si mititur ratione certa et solida, est Scientia, si tantum probabili, est Opinio. pi,i;„„;„ „„i„. .</p> 
+        <p>
+          III. Habitus sciendi, prout oppQnitur habitui eredendi tuplex habituum et opimandi, sub se complectitur quinque habitus intellec unde orta. tuales ab Aristotele enumeratos lib. 6. Ethic. Intelligen
+          tiam, Scientiam, Sapientiam, Prudentiam, Artem, quia tunc sumitur late pro quavis notitia habituali certa et evidente, sive ea sit de rebus neces sariis et speculabilibus, sive de rebus contingentibus et practicis. Quin tuplex autem ista distinctio ex quintuplici varietate objectorum circa quae mens occupatur, oritur. Nam vel versatur circa necessaria, quae sunt, vel Principia quibus sponte assentimur sine demonstratione, et horum notitia vocatur Intelligentia, vel Conclusiones quibus assentimur per Demonstra tionem, quae Scientiam constituunt, vel Conelusiones cum Principiis con junetae, quae Sapientiam exprimunt; Vel circa contingentia, quae iterum, vel sunt aegawtà, quorum mullus alius est finis praeter sùrgayiw, circa quae versatur Prudentia, vel rourrâ, quae habent pro fine effectionem, in quibus Ars occupatur. Aa „ii„„, „„,. .
+        </p>
+        <p>IV. Nullus habituum intellectualium, prout im Ethicis tuum proprie re- tractantur et a se invicem eontradistinguntur, potest verum fertur. et proprium genus Theologiae constituere, quia isti habitus
+          omnes sunt habitus sciendi, sed Theologia non est habitus sciendi, sed credendi. 2. Sunt habitus naturales, et hominum solertia inventi et ex eulti; At Theologia est supernaturalis et διάσδοτος, cujus principium non est humana ratio, sed divina revelatio. 3. Sunt omnes vel Theoretici vel
+          Practici simpliciter, sed Theologia mixti generis partim Theoretica, partim Practica.
+        </p>
+        <p>
+          V. In specie Theologia non potest esse Intelligentia, quia ista est tan tum notitia principiorum, non conclusionum ; At Theologia est motitia tum primcipiorum tum conclusionum. Deinde versatur circa principia natura nota, et sua luce clara; At Theologia circa principia Verbo Dei revelata. Non est Scientia, quia non nititur evidentia rationis, sed tantum testimonio,
+          nec in cognitione aequiescit, sed eam ad operationem dirigit et ordinat. Non est Sapientia, quia de ea negantur omnes partes Sapientiae, puta intelligentia principiorum per se notorum, et notitia conclusionum. Non est Prudentia, quia non est tantum agendorum, sed etiam credem dorum, et virtus est directiva actionum spiritualium, non civilium. Non denique Ars ; quia nom est habitus effectivus, et eorum quae extra efficien tem in aliquo opere terminantur.
+        </p>
+        <p>
+          VI. Licet vero Theologia nullus possit dici proprie et oi√; ta*%* stricte ex istis habitibus, tamen beiie dicitur éminenter inet eminenter. - - - .
+          omnes illos im se includere; Nam quatenus de Deo agit, ut summa causa, similis est Sapientiae; quatenus principia continet, In telligentiae; quatenus conclusiones demon$trat, Scientiae; quatenus actiones dirigit, Prudentiae; quatenus vero est aedificativa Ecclesiae, Arti. Hinc in Scriptura promiscue illi tribuuntur voces Intelligentiae, Ps. cxix. 22, 34; Scientiae, Ps. cxix. 66; Is. v. 13; Sapientiae, 1 Cor. ii. 6, 7; Prudentiae, Ps. cxix. 110, et pa$sim in lib. Proverb. 1, 2, 3, 4, 5, capit. Artis, quum Doctrina fidei vocatur opus et aedificium quod debemu8 perficere, 1 Cor. iii. 11; 2 Cor. vi. 1. s„;„„, „„;„ .
+        </p>
+        <p>VII. Si genus aliquod ex istis habitibus est Theologiae êx omnibusTiiii tribuendum, Sapientia ei maxime analoga est, et ad natu convenit. ram ejus proxime aecedit; Non quidem sensu Aristotelico
+          praecise, quia sic non multum differt ab Intelligentia et Scientia, $ed potius sensu Stoicorum, quomodo est collectio habituum omnium tam speculati vorum quam moralium, apud Stobae. Serm. 1, de Virtu. Unde Suidas ait Sapientiam e$$e aerra, u#4vw xai τψ τάχm» xai φεόπτιν, xaì irurrjuw, xal yovy. Sic saepe in Scriptura doctrina fidei Sapientiae nomine designatur ut in lib. Proverb. et 1 Cor. ii. 6, 7, etc. Et ratio hoc evincit, 1. quia Sapientia est $cientia rerum praestanti$simarum; At Theologia de Deo et ejus operibus agit, et de aeterna felicitate nostra, quae sunt omnino res praestantissimae, de quibus agit modo praestantissimo, non ex ratione, sed ex divina revelatione. 2. Sapientia est disciplina Architectonica, quae aliis omnibus imperat, easque dirigit; At Theologiae maxime proprium hoc est, quae ita ést omnium arbitra et domina, ut de ipsis judicét, ét ipsa a nulla alia $cientia judicetur, omnes enim aliae disciplinae exigendae sunt ad ejus amussim, ut quicquid habent cum Theologia non consonum reji ciatur: Ita licet principia et objecta aliis disciplinis non praescribat, atta men illis eatenus dominatur, quia limites illis ponit, ut nec objectum ali quod statuere audeant contra Theologiam, nec suis principiis adversus illam utantur; tum etiam ratione finis ultimi, nimirum gloriae Dei, quem quamvis non attingant immediate, tamen ad illum sese debent dirigere.
+        </p>
+        <p>VIII. Si Theologia sumit quaedam ab aliis disciplinis, non hoc petit ab illis ut inferior a superioribus, sed ut superior ab inferioribus, tamquam domina, quae utitur libere ancillis suis; et non tam sumit ab aliis, quam praesupponit praecognita quaedam quibus revelationem superstruit.</p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

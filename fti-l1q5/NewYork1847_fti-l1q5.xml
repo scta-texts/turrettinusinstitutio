@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 5</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 5</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q5">
+        <head>Locus I, Quaestio 5</head>
+        <head type="question-title">An Deus et Res Divinae sint Objectum Theologiae ?</head>
+        <p>I. Objectum scientiae alicujus est id omne quod praecipue ""°£ Jectum. °'* siones; in ea trietatur, spectarietautem ad quod potest,feferuntur vel materialiter omne$ eju$ quoadCQnélu rem
+          consideratam, vel formaliter quoad modum considerandi.</p>
+        <p>
+          II. Quamvis diversimode loquantur Theologi de Ob Deus £$° P* jecto Theologiae, communior et verior est eorumi sententia
+          - qui hoc ad Deum et Res Divinas referunt; ut Deus quidem sit primarium, res divinae vero secundarium; sive quae a Deo factae, sive quae ab hominibus vel credendae sunt vel faciendae, id est Deus in recto et in obliquo; nimirum Deus, et quae Dei sunt ut ejus Opera, et quae Deo subsunt ut creaturae, et quae ad Deum tendunt ut hominis officia. Ita omnia in Theologia tractantur, vel quia sunt ipse Deus, vel quia ox£vw ha bent ad Deum ut primum principium et ultimum finem.
+        </p>
+        <p>III. Deum esse Objectum Theologiae patet; Tum ex nomine ipso 6ioA•yia; et θεοστρυας; Tum ex Scriptura, quae non aliud objectum princi pale agnoscit; Tum ex conditionibus objecti, quae in eo deprehenduntur; 1. ut sit aliquid incomplexum, 2. ut quaedam de eo denominative praedi centur, puta affectiones aut proprietates. 3. ut ad illud respiciant quaecun que tractantur in disciplina: Deus enim est Ens incompletum et maxime simplex; Quaedam de eo praedicantur denominative, ut ejus attributa; Ad eum omnia referuntur et habent relationem originis, conservationis, ac de pendentiae.</p>
+        <p>
+          IV. Sed quamdo Deus proponitur ut Objectum Theo °','',$'**"* et fœderatus. logiae,* non $pectandus es£ siimpliciter ut Déus in se,» sic enim nobis est xavraxnxºres; sed quatenus revelatus, et ut se in Verbo nobis patefacere dignatus est, ut revelatio divina sit ratio for malis quae in hoc objecto spectanda venit. Nec praecise considerandus est sub ratione Deitatis, ut vult Thomas et post eum plerique Scholastici; hoe enim modo cognitio ejus nom potest esse salutaris, sed exitialis peccatori bus: Sed ut est Deus noster id est fœderatus in Christo, quomodo se nobis in Verbo patefecit, non modo ut cognoscendum, sed etiam ut colendum, quibus duobus vera Religio quam Theologia docet, continetur.
+        </p>
+        <p>V. Unitas scientiae et distinctio ab alia, nom sumitur Font-;$uti- semper ab unitate Oljecti materialis, sive a re considerata;
+          - sed ab unitate Objecti formalis, seu a modo considerandi :
+          Quanquam Physica, Ethica, et Medicina tractent idem subjectum, non desinunt esse diversae scientiae, quia hominem sub diversa ratione conside rant; Physica qua Corporis naturalis species est; Ethica qua virtutis et felicitatis capax; Medicina, qua a morbis curandus et sanitati restituendus. Ita quamvis Theologia de iis tractet de quibus agunt Metaphysica, Phy sica et Ethica; modus tamen considerandi longe diversus est. De Deo tractat, non ut Metaphysica quatenus est Ens, aut qua lumine naturali cognosci potest, sed qua per revelationem innotescit ut Creator et Re demptor : De Creaturis agit, non quatenus sunt res naturae, sed quatenus sunt res Dei, id est, quatenus habitudinem et ordinem habent ad Deum, ut Creatorem, Provisorem, Redemptorem suum, idque juxta revelationem
+          ab ipso factam ; quem considerandi modum aut non norunt, aut non assu munt reliquae scientiae.</p> 
+        <p>VI. Si Theologia probare satagit Deum esse ; non id efficit ex prima et propria intentione, sed quasi per accidens ex adventitia necessitate, nimirum ad confutandos profanos et Atheos, qui excusso omni pudore et conscientiae sensu id negare sustinent. 2. Axioma illud, Scientiam non probare subjectum suum, sed supponere, verum est in Scientiis humanis et inferioris ordinis; Sed Theologiae quae altioris est ordinis alia est ratio; extendit enim se ad omnia probanda quae probari possunt per medium illis proprium, nimirum divinam revelationem ; et hoc facit nom instrumentaliter, sed architectonice.
+        </p>
+        <p>
+          VII. Non necesse est ad Scientiae habitum, ut Objectum suum ita capiat, ut quaecumque ipsi competere possunt perfecte cognoscat; sufficit si multa ex eo noverit, et de principiis suis deducere po$sit; Non ergo oportet sub jecto adaequari scientiam secundum exactam et arithmeticam aequalitatem; sed satis est si adaequetur secundum aliquam aequalitatis proportionem, quae adaequatio in Theologia reperitur; versatur enim illa circa Deum et perfectiones ejus infinitas, non ut infinite cognoscat, sed finito modo, nec absolute quantum cognosci in se possunt, sed quantum eas revelare de se dignatus est; sic Theologia dici potest adaequari Objecto suo secundum formalem rationem revelationis, non adaequando Deum ipsum, sed tantum Revelationem de Deo datam.
+        </p>
+        <p>
+          VIII. Quod vulgo dicitur Scientiam non esse singularium, sed universa lium, non sine limitatione admittendum est : Nam Metaphysica, Physica, etc. scientiae sunt, nec tamen eo minus de singularibus agunt, de Deo et de Mundo : Axioma E. intelligendum est de singularibus ex materia com positis, et sub infima specie constitutis. Quod si de talibus agatur in Theo logia, ut de Adamo, Noacho et aliis, hoc non fit principaliter, sed tantum ut aperiantur rerum origines, vel in exemplum vitae, et testimonium divinae providentiae, atque adeo propter causas generales: At si fit aliquod singu lare immateriatum et in actu puro, dubium non est quin po$sit esse de eo scientia; quia objectum intellectus est Ens; Ergo quo Ens est perfectius, eo magis sciri et cognosci potest; perfectius autem est, quo magis est in actu et minus in potentia. Deus inter universalia merito potest referri, est enim universale in causando ; cum sit causa universalis rerum omnium ;
+          Item in praedicando non quidem in recto, sed in obliquo, nam omnia qui dem Deus non sunt, sed omnia tamem sunt Dei, vel a Deo, vel ad Deum ;
+          Itaque non deest etiam hac in parte in subjecto Theologiae omnis ratio uni versalitatis.
+        </p>
+        <p>
+          IX. Certum est in $cientiis inferioribus principia $cientiae esse a sub jecto diversa, ut quae passiones et proprietates demonstrent de subjecto per propria principia; Quia cum scientiae cujuslibet humanae subjectum finitae sit essentiae et virtutis, necessarium est aliqua esse principia, ex quibus fluat vel componatur: Sed in Theologia quae $uperioris est ordinis, datur subjectum plane divinum, quod est et natura et potentia infinitum, adeo que omni re prius, ut nullam principiati rationem habere po$sit; unde propter eam infinitatem fit, ut duas hasce rationes simul contineat, sitque subjectum de quo agit Theologia, et simul etiam ejus principium.</p> 
+        <p>X. Theologia agit de peccato non prout Dei est, sed prout quandam zzίαι, ad Deum habet; vel sub ratione oppositi et contrarii; vel quatenus subjacet ejus Providentiae et Justitiae; ut Medicina agit de morbis et vene nis, licet praecipuum ejus subjectum sit homo sanandus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

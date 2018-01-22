@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 3</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 3</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q3">
+        <head>Locus I, Quaestio 3</head>
+        <head type="question-title">An detur Theologia Naturalis ?</head>
+        <p>I. Non quaeritur de Theologia in genere, sed de naturali in specie; Nec de ea qualis fuit in Adamio ante lapsum
+          - hanc enim fuisse in Adamo, vel ex $ola Dei imagine ää
+          quam conditus est, satis constat; sed de ea qualis remansit post lapsum.</p> 
+        <p>II. Non quaeritur, An detur Theologia naturalis, quae talis sit actu statim atque homo mascitur, ut actus vitae est in vivente, et sensus in sentiente statim ab utero: Certum enim est nullius rei actualem cognitionem nobis
+          cum nasci, et hac ratione hominem esse instar tabulae rasae. Sed an talis detur saltem ratione principii et potentiae, $eu An detur in homine talis facultas naturalis ipsi insita, quae se ultro et sponte exerat in omnibus adultis sanâ mente praeditis, quae complectatur mon modo potentiam intelli gendi, sed etiam principia naturalia notitiarum, ex quibus conclusiones tum theoreticae, tum practicae deducuntur, quod asserimus.</p> 
+        <p>III. Non quaeritur, An cognitio ista sit perfecta et salutaris, fatemur enim post peccatum valde obscuratam esse, ut ad salutem penitus insuffi ciens facta sit ; Sed tantum, An aliqualis supersit in homine de Deo cog nitio : per quam persuadeatur, Deum esse, et esse religiose colendum.</p> 
+        <p>IV. Res nobis hic est cum Socinianis, qui negant dari talem Theologiam seu cognitionem Dei naturalem, et siqua esse videtur, eam partim a Tra ditione Majorum, inde ab Adamo, partim ex varia revelatione diversis
+          temporibus facta dimanasse volunt. Socin. Praelect. Theol. c. 2. Ostorod. Instit. IRelig. Christ. c. 3. Orthodoxi vero Theologiam naturalem dari partim insitam, quae ex libro conscientiae hauritur per xowς iyvoias partim acquisitam, quae ex libro Creaturarum petitur per discursum, constanter do cent. Et sequentibus argumentis probant. Theolooia nata.</p> 
+        <p>V. Qui? datur in hqmine Lex naturalis, quae scripta est Falis probatur ex in uniuscujusque conscientia, et quae hominem excusat et ac Ro. ii. l4. cusat in bene vel malefactis, quaeque ideo necessario includit
+          cognitionem Dei Legislatoris, cujus autoritate homines obligat ad obe dientiam, iisdemque praemia vel pœnas denunciat : Gentes quae Legem non habent, id est Legem Mosis, natura quae legis sunt faciunt, adeoque Legem non habentes sibi ipsis sunt Leae, ut qui ostendant opus Legis scriptum in cordibus suis, una testimonium reddente ipsorum conscientia, et cogitationibus sese mutuo accusantibus et eaecusantibus. Rom. ii. 14, 15. quod dici non posset, nisi conscientia dictaret unicuique dari aliquod Numen probans recte facta, et improbans ac puniens male facta. Nec excipi potest, 1. INon Legem, sed opus Legis dici inscriptum, quia Apostolo ista sunt syno nyma, sibi ipsi esse Legem v. 14. et opus Legis cordibus inscriptum habere v. 15. Et rei natura hoc evincit, quia tale opus Legis intelligitur, cujus instinctu homo non modo honestum a turpi distinguit, sed ad illud prae standum, et hoc fugiendum impellitur. 2. Legem non dici innatam, sed inscriptam, id. cognitam, ut Judaeis cognita Lex Mosis ex revelatione ;
+          Nam inscriptio maturalem revelationem istius Legis infert in hominis con scientia, oppositam revelationi externae, quae facta est Judaeis per inscrip tionem in tabulis lapideis. Unde per conscientiam, quae se tum in vvrrwgîwu, tum in orvyuöìoru exerit, exponitur v. 15.</p> <p>VI. Quia Deus sui dedit notitiam tum insitam, tum acquisitam homini, quo pertinent loca Psal. xix. 1; Act. xiv. 15, 16, 17, et xvii. 23; Rom. i. 19, 20. Nec admitti potest audax Socini corruptela, qui verba Pauli ad se cumdam Creationem refert per Christum factam, quasi Apostolus innuat ea quae inde a Creatione invisibilia et incognita fuerint hominibus, nunc con spici et cognosci factis Dei et hominum divinorum id. Christi et Aposto lorum ejus. Verba enim Pauli, et series sermonis clamant de prima eum loqui : Nam probare vult homines impios adversus quos cœlitus ira Dei demonstratur v. 18. veritatem in injustitia detinere, nimirum veras de Deo notiones, quae in revelatione naturali continentur, quod ostendit v. 19. quum ait id quod cognosci potest de Deo manifestum esse i» aùroîç in ipsis, quia Deus ipsis revelavit, partim in cordibus ipsorum, partim in operibus Crea tionis. 2. Scopus Pauli idem docet, qui est demonstrare nec Gentiles ex Natura, cap. 1. nec Judaeos ex Lege justificari potuisse, cap. 2. quia omnes sint peccatores, sed demum ex Evangelio quod a Christo revelatum est, 3. rouquara, hic non possunt referri ad miracula ab Apostolis facta, quia nunquam in Scriptura sic appellantur, nec innotuerunt Ethnicis, de quibus agit Paulus; sed ad opera creationis Mundi, quia invisibilia Dei rò vrivw; xδαμον in illis dicuntur patefieri.</p>
+        <p>VII. Experientia universalis hoc confirmat. Nam quod B*,£;iti- omnibus et singulis hominibus communiter et immutabili " ter inest, id debet inesse naturaliter: Quia naturalia omnibus conveniunt et immutabilia sunt; sed notitia Divinitatis omnibus inest immutabiliter, quia nulla est tam barbara natio, cui non insideat haec persuasio Deum esse Cice. lib. i. de Nat. Deor. Ita ut res quasque vilis simas, imo Cacodaemonem ipsum potius pro Numine colant, quam ut nullum
+          Quaest. iii.] I)E THEOLOGIA. 9
+          habeant Numem. Et si qui sensum hunc excutere conati sunt, nunquam potuerunt; licet ad tempus videantur callum obduxisse, recurrit tamen terror Numinis, maxime in adversis.</p> 
+        <p>VIII. Religionum in Mundo institutio, Theologiam natu Ex. ßeligionum ralem clarissime evincit. Nam unde occulta illâ hominum institutione. - - - - -
+          ad Religionem propensio, juxta quam homo Platoni est e» $uovigío-raro», nisi ex sensu Numinis, quod colendum agnoscunt? Nec tam proni fuissent ad idololatriam et quidem teterrimam amplectendam Populi, et ad falsas et fictitias religiones tam facile recipiendas, quas Im postores astu Politico excogitarunt ad homines mancipandos, nisi instinctu quodam naturali ad Religionem et cultum alicujus Numinis impulsi fuis sent. Nec dici potest Gentes hoc mon tam instinctu, quam imitatione fecisse; nam si non fuisset instinctus maturalis, homo animal gloriae coram vilissimis creaturis se non abjecisset, ne censeretur omni Numine carere; nec quod ab imitatione tantum oritur, adeo commune et universale esse
+          otest. p -</p> 
+        <p>IX. Licet dentur Gentes nonnullae maxime ferae, quae vi
+          *on*num- §*''"**°- dentur- omni- sensu Numinis - -
+          destitutae; - non tamen `carentomni
+          cognitione Dei; exilia quidem possunt esse Reli gionis semina, quae in ipsis remanent, propter maximam caecitatem, et stu porem quo ad feras et bruta videntur magis accedere ; sed supersunt tamen quaedam in iis, ut in Americanis et Brasiliensibus, quos nobis hic objicit Socinus: Licet Jo. Lerius Burgundus observet nullos Deos apud eos agnosci, vestigia tamen divinitatis in iis superesse mon obscure innuit tum ex eo quod suos Caribes seu Sacerdotes habere narret, quos sunt persuasi et fortitudinem bellicam impertiri, et omnes e terra fructus producere, eo quod cum spiritibus commercium habeant; tum ex eo quod fateantur animas eorum qui virtutem coluerunt, post altissimos montes evolantes, in amoenissimis hortis perpetuis deliciis laetum aevum agere, ignavorum contra abripi ad Stignan, sic cacodaemonem vocant, et cum eo inter aeternos cru ciatus vivere. Idem in histo. naviga. in Brasiliam c. 6. narrat Mexicano rum summum Deum esse Hoizili Pochtli. Josephus a Costa. in histo. Indi. Occiden. lib. 5. c. 2. et 3. Peruvianos suos habere Deos, et inter eos suum Piracocha, quem Pachacamak, creatorem cœli et terrae, vocant. Non absi milia leguntur apud Hiero. Benzonium in historia novi mundi, et Bartolo. de las Cazas, aliosque.</p> 
+        <p>X. Non repugnat unum idemque vario respectu et ex lumine rationis cognosci et credi lumine fidei, ut quod nonnisi subobscure ex uno colligi tur, ex altero certius teneatur; sic Deum esse et ex natura cognoscimus, et ex fide, Hebr. ii. 6. ex natura obscurius, ex fide vero certius. Ita notitia specialis verae fidei, per quam fideles placent Deo, et aditum habent ad ipsum, de qua ibi Paulus agit, non excludit, sed supponit generalem per
+          naturam.</p>
+        <p>XI. Mens hominis est tabula rasa nom absolute, sed secundum quid, quoad discursum et cognitionem dianoëticam, quae acquiritur necessario unum ex alio inferendo. Sed mon quoad cognitionem apprehensivam et moëticam : Nam vel teste ipso Paulo opus Legis ita insculptum est cordi bus Gentium, ut maturâ faciant quae sunt Legis; unde duplex Scriptura legitur in corde hominis; Alia Dei in reliquiis imaginis suae et Lege natu rali; Alia Diaboli per peccatum.</p> 
+        <p>XII. Quod naturale est subjective et constitutive semper eodem modo se habet; Sed non quod tale est qualitative et consecutive, nam qualitates
+          
+          recipiunt magis et minus; Theologia maturalis ita dicitur mon primo, sed secundo sensu ; Unde non mirum, si pro ratione subjectorum, quae majori vel minori pollent acumine, variat quoad gradum.</p> 
+        <p>XIII. Licet non negemus Theologiam naturalem ab hominum institu tione etiam pendere; Certum est tamen modum illum insufficientem futu rum fuisse, nisi supposita fuisset cognitio Dei naturalis, tum innata tum acquisita.</p> 
+        <p>XIV. Licet cognitio Dei sit naturalis, non sequitur neminem mortalium Deum negare potuisse; Quia si qui negarunt, non tam ignorantia negarunt quam malitia, redarguente eos propria conscientia, quod de Atheis irrisori bus in populo Dei testatur David Psalm. xiv. 4, 5. et de Philosophis asserit Paulus Rom. i. 18, 19. docens eos veritatem id. veras de Deo notiones in injustitia detinuisse. Causa negationis ergo non tam fuit ignorantia abso luta Dei, quam corruptio et malitia cognitionem insitam suffocans et tan tum non extinguens, ut liberius peccare possent.</p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 1</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 1</title>
+          <date when="2018-01-21">January 21, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="U" n="Utrecht1734a">Utrecht 1734, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#U" n="1"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q1">
+        <head>Locus I, Quaestio 1</head>
+        <head type="question-title">An theologiae vox usurpanda sit in scholis Christianis; Et quod modis sumatur?</head>
+        <p>
+          <lb ed="#U"/>Cum ex accuratae Methodi legibus necesse sit <foreign>
+          <lb ed="#U"/></foreign>id est <quote>usum et vim nominum pri<lb ed="#U"/>us 
+          expendere</quote>, ut vult <name>Philosophus</name>; quia verba sunt 
+          <lb ed="#U"/>rerum <foreign>tupos</foreign>: de voce Theologiae quaedam prae<lb ed="#U"/>mittenda 
+          sunt, antequam ad rem ipsam veniamus. 
+          <lb ed="#U"/>Licet autem quaestio proposita parum necessaria 
+          <lb ed="#U"/>videatur, in communi et recepto apud plerosque 
+          <lb ed="#U"/>omnes istius vocis usu, qui eam tanquam vocabu<lb ed="#U"/>lum 
+          <foreign></foreign>, quod proprie et emphatice subjectum suum declarat, reti<lb ed="#U"/>nendam 
+          censent; Occurrendum tamen est nonnullorum sententiae, qui<lb ed="#U"/>bus 
+          nomen hoc displicet, eo quod in Scriptura non extet, et ad Ethni<lb ed="#U"/>corum 
+          mataeologiam significandam usurpari soleat, quique convenien<lb ed="#U"/>tius 
+          judicant vocibus aliis ex Scriptura petitis uti.
+        </p>
+        <p>
+          <lb ed="#U"/>Licet vox Theologiae non sit <foreign>εγγραφω αθτολεζεσ</foreign>, non est tamen 
+          <lb ed="#U"/>plane <foreign>αγραφω</foreign>; siquidem voces simplices ex quibus componitur, ibi 
+          <lb ed="#U"/>saepe occurrunt, ut <foreign>λογς τε δε??</foreign> et <foreign>λγια τε δει</foreign> Roman. 3:2 1 Pet. 
+          <lb ed="#U"/>4:10 Heb 5:12 Aliud ergo est esse in Scriptura quoad sonum et syllabus, 
+          sive
+        </p>
+        <p>
+          III. Quamvis non liceat dogmata ulla fingere extra Scripturam; licet tamen uti nonnunquam verbis, quæ in Scriptura non reperiuntur, si com moda sint, vel rebus divinis explicandis, vel erroribus præcavendis; quem in finem voces Triadis, άμοναῖον, Peccati originalis, et similes a Theologis sunt usurpatæ. 
+        </p>
+        <p>IV. Licet Ethnici sæpe abusi sint hac voce ad suam matæologiam designandam; non obstat hoc tamen, quominus, quod illi falsæ et Jsv3a víuæ suæ Theologiæ nomen male tribuebant, veræ et salutari doctrinæ nostræ vindicetur. Quomodo nomen Dei, quod falsum et fictitium Deum apud Ethnicos significabat; et nomem Ecclesiæ, quod Coetum profanum designabat; in Scriptura saniore sensu de vero Deo, et de Coetu Sancto rum accipitur. Ita vox Theologiæ quæ origine græca est, e Gentilium scholis translata est ad usus sacros, ut olim vasa Ægyptiorum ab Israëlitis sacris destinata sunt usibus.</p>
+        <p>V. Non negamus varia esse symonyma in Scriptura, quibus doctrina eoelestis designatur, ut quum dicitur sapientia in mysterio, 1 Cor. ii. 7, forma saniorum sermonum, 2 Tim. i. 18, cognitio veritatis secundum pieta
+        tem, Tit. i. 1, doctrina, Tit. i. 9, et aliis idgenus vocibus exprimitur. Sed non minus ideo momen hoc retineri potest et debet, quia et longo usu receptum est, et commodissimum est doctrinæ isti salutari exprimendæ. VI. Vocem Theologiæ apud Gentiles in usu fuisse constat. Qui enim de Deo sublimia dicebant, vel Deorum cultum explicabant, vel eorum natales, conjugia, progeniem, imperia et res gestas explicabant, ipsi Theo logi sunt appellati, et eorum scientia Theologia, ut notant Lactan. de Ira
+        Dei c. ii. $Alex. strom. 3. Isido. lib. 5. Aristo. metaph. 3.</p>
+        <p>VII. Nomen Theologiæ inter Christianos vel sumitur inadæquate, a parte efficientis ut sonat Θιά Aóyo, Sermo
+        nem Dei, et a parte objecti A6yo» aeig τά Θsev Sermonem de Deo; vel adæ quate prout notat utrumque, et sermonem Dei, et sermonem de Deo, quæ duo conjungenda sunt, quia de Deo sine Deo loqui non possumus. Ut no tetur doctrina, quæ originaliter est a Deo, objective de Deo agit, et termi native in Deum fertur, et ad Deum ducit, quod non male Thomas 1a 1æ q. 7. exprimit, Theologia a Deo docetur, Deum docet, et ad Deum ducit. Sic complectitur ista nomenclatio duplex Theologiæ principium, unum essendi, quod Deus est, alterum cognoscendi, quod est Verbum ipsius.</p> 
+        <p>VIII. Rursus trifariam sumitur apud Authores. 1. Late. 2. Stricte. 3. Secundum justam significationis suæ amplitudinem. Primo modo accommodatur Metaphysicæ quo sensu Aristot. primam Philosophiam vocat Theologiam, lib. 6. Met. cap. 1. et lib. 10. Philo$ophiam Theoreticam dividit in tres partes, φυσικῶν, μεθαμaτικόν, et θεολοyixwv. Secundo, Patres Theologiæ nomine peculiariter designant illam doctrinæ Christianæ partem, quæ de Christi Divinitate agit, quo sensu Joannes singulariter Theologus est nominatus, quia fortiter præ cæteris rìv rov λόγον θεότηra, asseruit, ut ex ponere videtur Apoc. i. 2, et Gregorius Nazianzenus inter reliquos Patres nomen Theologi obtinuit, quia Christi Divinitatem variis Orationibus de monstravit; Unde distinctio apud ipsos nata %oAoyia; et eixovopaias, Theo logiæ et Oeconomiæ; illâ doctrinam de Divinitate Christi, istâ doctrinam de ejusdem Incarnatione intelligunt, et θεολ•yii, Iwvevo ipsis est, de Christi Divinitate disserere. Euseb. hist. Eccl. lib. v. cap. 28. Basilii. lib. ii. c. Eunomi. et Nazian. Ora. 42 et 49. Tertio maxime proprie motat Syn tagma seu Corpus doctrinæ de Deo et rebus divinis, a Deo ad suam gloriam, et hominum salutem revelatæ, quo sensu hic a nobis sumitur.</p> 
+        <p>IX. Usus nominis Theologiæ, vel est æquivocus et abusivus, quando tribuitur falsæ Theologiæ Ethnicorum et Hæreticorum; Vel minus pro prius, quando effertur de originali et infinita Sapientia, quæ a nobis in Deo concipitur seipsum ineffabili et perfectissimo modo cognoscente; hoc enim nomen rei ipsius dignitatem assequi non potest; Vel de Theologia Christi; Et de Theologia Angelica; Vel proprius, quando tribuitur Theo logiæ hominum Viatorum, quæ in maturalem et supernaturalem distingui tur, ut infra dicetur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

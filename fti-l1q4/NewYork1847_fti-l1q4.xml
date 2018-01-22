@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 4</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 4</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q4">
+        <head>Locus I, Quaestio 4</head>
+        <head type="question-title">An Theologia naturalis sit sufficiens ad salutem, seu, An Religio aliqua com munis detur, per quam omnes promiscue salvari possint ?</head> 
+        <p>I. Occasionem quaestioni dedit dogma impium Pelagia norum; Unumquemque in Religione suâ bene institutum servari, quod non tantum retinent Libertini, David-Jor ristae et similes, qui honesta et civili conversatione contenti, quamlibet Religionem censent indifferentem; Sed et Sociniani hodie approbant, partim directe, dum docent eos, qui juxta lumem naturae tanquam interius quod dam verbum, Deum colunt, ipsi placere et gratos esse, et remuneratorem ipsum experiri, Socin. praelect. cap. 2. partim indirecte et oblique, dum Capita Religionis praecise ad salutem necessaria ad paucissima revocant, eaque suo modo et gradu omnibus communia faciunt, ut suo loco dicetur. Ad quos Remonstrantes non obscure accedunt; Alii apertius ut Curcellaeus et Adolph. Venator, qui in Apologia sua contra Ministros Dordracenos diserte hanc propositionem negat, Nemo potest servari qui Christo per veram fidem non sit insitus. Alii cautius ut Arminius, Corvinus, Episco pius, qui non immediate sed mediate Ethnicos, aliosque ad salutem admittunt, dum statuunt recto usu luminis Naturae acquiri lumen Gratiae, et per gra tiam perveniri ad gloriam, Armin. resp. ad Art. 15, 16, 17. et Arnoldus contra Tilenum. In eodem errore versantur varii ex Pontificiis, qui salu tem Ethnicorum absque Christi notitia ausi sunt propugnare, ut Abulensis, Durandus, Capreolus, Andradius, Vega, Soto, Erasmus et alii.</p> 
+        <p>II. Orthodoxi vero contra constanter tuentur, Theologiam sive veram
+          Religionem per quam homini post lapsum contingere potest salus, unam esse tantum, Verbo Legis et Evangelii revelatam ; alias vero Religiones omnes praeter hanc unam, vel impias esse et idololatricas, vel falsas et erroneas; quae licet notitias quasdam obscuras et imperfectas Legis et του yvwvro$ @iov retineant, non ulterius tamen juvent, quam ad hominem reddendum varoXóynrov.
+        </p>
+        <p>III. Non quaeritur, An sint principia quaedam Religionis apud omnes communia; fatemur enim in Theologia naturali ex lumine naturae talia quaedam dari, quibus superstruitur Theologia supernaturalis; verbi gratia,
+          Deum esse, Deum esse colendum, etc. Sed quaeritur, An principia adae quata et propria verae Religionis possint haberi apud omnes; quod ne
+          aimu8.</p>
+        
+        <p>IV. Non quaeritur, An hominibus utilis sit Theologia stat"*?****** naturalis; Agnoscimus enim varios ejus fines et usüs,
+          - 1. ut sit testimonium bonitatis Dei erga homines pecca tores indignos etiam hisce reliquiis lucis, Act. xiv. 16, 17; Joa. i. 5. 2. Ut sit vinculum externae disciplimae inter homines, ne mundus in la trocinium abeat, Rom. ii. 14, 15. 3. Ut sit conditio subjectiva in homine ad lumen gratiae admittendum, quia Deus non alloquitur bruta et truncos, sed creaturas rationales. 4. Ut sit incitamentum ad quaerendam illustrio rem Dei revelationem, Act. xiv. 27. 5. Ut reddantur homines inexcusa biles, Rom. i. 20, tum in hac vita in judicio conscientiae accusantis, Rom. ii. 15, tum in futura in judicio Dei qui judicabit de latebris hominum, Rom. ii. 16. Sed quaeritur, An sufficiat per se ad salutem, et An finis a Deo intentus in illa revelatione fuerit salus hominum quibus facta est; quod
+          megamus. - - - - - -
+          m„,,„„.„,„ „. </p>
+        
+        <p> V. Rationes sunt variae 1. Quia Religio salutaris nulla turalem nón sufii. esse potest sine Christo, et fide in ipsum, Joan. iii. 16. et ceré ad salutem xvii. 3; Act. iv. 11, 12; 1 Cor. iii. 11; Heb. xi. 6. At probatur. nuspiam Christus revelatur nisi in Evangelio; nec fides
+          datur sine Verbo, cum sit ex auditu, Rom. x. 17. Nec excipi debet hinc tantum sequi Religionem Christianam esse unicam viam ordinariam salutis; sed inde non colligi Deum non posse extraordinarie salutem conferre iis qui sancte vixerint juxta legem maturae, etsi Christus illis annunciatus non fuerit: Nam cum Scriptura testetur Christum unicam esse viam salutis, sine quo nemo veniat ad Patrem, via extraordinaria absque Christo fingi sine crimine nequit. 2. Quia Status Gentilium et eorum omnium qui Christi Verbo destituuntur, vocatur Tempus ignorantiae, Act. xvii. 30, quo Deus quasi connivendo eos dissimulavit, gentibus permittens in viis suis incedere, Act. xiv. 16, et quo serviebant ignoto Deo, Act. xvii. 23, et Athei erant in mundo, Eph. ii. 12, quod dici mom posset, si revelatio natu ralis habuisset ea quae poterant sufficere ad salutem. 8. Quia si salus posset haberi ex Religione communi, non opus fuisset Evangelio et Verbi prae conio; cum tamen testetur Paulus 1 Cor. i. 21, postquam in Dei sapientia, Mundus Deum non cognovit per sapientiam, placuisse Deo servare cre dentes, per stultitiam praedicationis, id est per Verbum Evangelii, quod impiis est stultitia. -</p>
+        
+        <p>VI. Aliud est dari aliquam motitiam Dei Creatoris et Conservatoris, sed imperfectam, corruptam et obscuram ;
+          Aliud habere plenam, integram et claram cognitionem Dei Redemptoris et legitimi cultus illi debiti: Illud habet Theologia naturalis in ywvr$ tov Θεοῦ: Hoc sola revelata in τά τιατά, quod ex Verbo tantum ha betur. Nec si Deus non se reliquit iuagrvgo» in natura benefaciendo ho minibus quoad rà ßuoruxè Act. xiv. 17, quae saepe largitur iis quos odio habet, et quos exitio devovit, sequitur Vocationem externam objective fuisse sufficientem ad salutem, quia dicitur vers. 16. Sivisse gentes ire viis suis, et cap. xvii. 30, voeatur tempus illud ignorantiae, quod mon alio respicit, quam ad defectum Vocationis externae, quia illud opponit tempori Novi Testamenti quo per Verbum vocat homines ad pœnitentiam.</p> 
+        
+        <p>VII. Aliud est quaerere favorem et gratiam Dei per Verbum suum re velati, vi promissionum suarum in Christo; Aliud quaerere Deum ignotum in operibus naturae et providentiae, si forsan palpando inveniri possit,
+          
+          
+          12 lOCUS PRiMU8. [Quaest. rv.
+          Posterius recte dicitur de Gentibus Act. xvii. 26, 27, sed non prius. Nec si alibi in Scriptura rò quaerere Deum significat ad fidem ejus confugere et gratiae ejus praesidium expetere, et eum invenire notat expetitum ejus prae sidium obtinere, et sanctissimum ejus Numen propitium experiri; Sequitur hoc in loco eodem sensu intelligendum esse : Quia et diversa sunt objecta, et plane diversa quaerendi ratio. In aliis locis quae afferuntur, agitur de populo Dei fœderato: In hoc vero de iis tantum, qui extranei erant quoad pactorum promissiones. In iis de iis qui Deum cognoverunt in Verbo, et Idola abominati sunt : In hoc de Idololatris, quibus Deus erat ignotus. In illis de quaerendo et inveniendo Dei cogniti favore per Christum. In hoc vero de Deo ignoto per opera naturae et providentiae quaerendo, ut cognoscatur, et ab Idolis discernatur. Denique in illis simpliciter et ab solute dicitur fideles Deum quaerere debere ut eum ad salutem inveniant, sed in hoc Deum ideo in mundo condendo et regendo potentiae et Divini tatis suae documenta dedisse istiusmodi, quibus inducerentur ad omnium conditorem eo modo quaerendum, nempe si modo palpando eum inveniant, quod de Sanctis iis, quorum in V. T. fit mentio, qui certissimis Dei in Christo promissis nixi ad eum accedere soliti sunt, dici debere nemo dix
+          erit.</p>
+        
+        <p>VIII. Locus Rom. i. 19, 20, de yvwa-r§ rov ©ie$ non favet Religioni com muni per quam omnes possint salvari, et quae sufficiat ad salutem. 1. quia agitur hic tantum de yvao-r§, non de aevo-r£, quod solum est salutare. 2. Pau lus dicit τό ywvrò» Dei patefactum esse Gentibus, sed non räv yvwa-rûv, illud scilicet quod haberi potest ex libro naturae, non autem illud omne quod de Deo cognosci potest ex Verbo, et quod scitu necessarium est ad salutem, • quale est Mysterium Trinitatis, et Christi Redemptoris, etc. 3. restringi tur ab Apostolo illud yvwa-rà» ad potentiam Dei et ejus Divinitatem, id est ad cognitionem existentiae Dei et illorum attributorum, quae in operibus Crea tionis et Providentiae in sensus magis incurrunt, quod ad Theologiam na turalem referri $olet: Sed non extenditur ad cognitionem voluntatis et misericordiae ejus in Christo, quae ex Verbo tantum, nequaquam vero ex operibus Dei haberi potest, sine qua tamen nulla salus. 4. tale est yworrò» quod non alio potest pertinere, quam ut reddat homines inexcusabiles, Rom. i. 20. Nec particula sic rò quae ibi habetur debet intelligi tantum eventualiter, ut notetur rei eventus per accidens, sed etiam finaliter quoad Dei consilium, quia eventus iste non potest non esse a Deo intentus, cum hic agatur de opere quod facit Deus ex decreto, non de eo quod praecipit tantum ex Lege.</p> 
+        <p>IX. Quod sufficit ad inexcusabilitatem non statim sufficit ad salutem, si eo bene utaris; plura enim requiruntur ad salutem conficiendam, quam ad damnationem juste et waroxoy#ras incurrendam ; malum enim ex quo libet defectu oritur; at bonum requirit integram causam ; v. g. qui impe gerit in uno reus est omnium, ex Jac. ii. 10, sed non statim qui benefe cerit in uno justus est in omnibus; unius peccati admissio potest reddere hominem inexcusabilem, sed unius boni operis impletio non sufficit ad ho minem salvandum; Sic inexcusabiles erant Gentiles, quod loco umius Dei, quem poterant ex lumine naturae cognoscere, innumeros sibi fingerent: Sed non ideo cognitio unius Dei potest dici sufficere absolute ad salutem. Ita inexcusabilitas ista restringenda est ad materiam subjectam de qua agit Apostolus, nimirum ad idololatriam quae sufficiebat ad eorum damna tionem, licet ejus fuga non sufficeret ad salutem.</p>
+          
+          <p>X. Aliud est hominem esse excusabilem vel excusandum; aliud salva bilem vel salvandum, si excusabilis est tantum a tanto non a toto, quod
+            
+            Ethnicis competeret, si per impossibile bene uterentur lumine naturae; quia licet actiones suas externas rite componerent a peccatis sequentibus abstinendo, non possent tamen veniam praecedentium peccatorum praeser tim originalis obtinere, ac statum et naturam corruptam reformare; actiones enim quas facerent, extermae tantum essent et bonae quoad substantiam operis, non item quoad modum et principium, Spiritu Sancto quippe desti tutae, et si homini prodessent, prodessent tantum quoad praesens vel futu rum, `non vero quoad praeteritum, ad tollendum reatum praecedentem, ab sque quo tamen nulla dari potest homini salus.</p>
+          <p>XI. Perperam dicitur in ywwr# rov @set, sufficientem dari oljective Gratiae et Redemptoris revelationem ad salutem, si non claram et explicitam, sal tem obscuram et implicitam; quatenus in illo Deus cognoscitur ut Mise ricors, ac proinde aliquo, licet confuso modo Redemptor, qui satisfactionem acceperit, et qui ad pœnitentiam vocet et remissionem peccatorum promit tat. Nam primo, Aliud longe est posse cognosci Deum ut misericordem misericordia generali, quae ad bonum aliquod temporale et poenarum dila tionem vergat; Aliud ut misericordem misericordia speciali et salutari im Christo, et posita satisfactione. Aliud posse cogno$ci Deum ut placabilem et benignum ; Aliud ut reipsa placatum, vel certo placandum. Prius damus Ethnicos ex lumine naturae habere potuisse; sed non posterius, quod tamen necessario requiritur ad tranquillandam conscientiam; Quid enim juvaret scire Deum posse placari, nisi constaret eum etiam velle pla cari, et medium talis placationis esset perspectum ? Cum enim conscientia prematur peccati reatu, et Justitiae divinae sensu, nunquam tranquillari poterit, nisi et bona Dei voluntas, et modus Justitiam ejus placandi ipsi innotescat; quis autem dixerit hoc ex libro naturae, ubi se Deus Creatorem tantum et Conservatorem exhibet, posse haberi? Quis non contra ex solo Verbo Evangelii quod misericordiam Dei in Christo nobis revelat, peten dum esse fateatur? Alias quare Paulus Mysterium hoc vocaret quod omnibus aetatibus incognitum fuit, Rom. xvi. 25. Quare diceret Gentes alienas fuisse a foederibus, et extra Christum, Eph. ii. 12, si suberant sem per aliquatenus fœderi gratiae, in quo data fuit aliqua, licet confusa et implicita, misericordiae salutaris in Christo notitia?</p> 
+          <p>XII. Non melius sese expediunt qui aliud incrustamentum quaerunt et distinguunt sufficientiam mediatam et immediatam, quasi Gentiles qui non potuerunt habere revelationem sufficientem immediate, habuerint tamen sufficientem mediate ; quatenus supponunt, si aliquis bene usus fuisset lumine naturae, Deum superadditurum fuisse lumen gratiae; hoc enim de cere misericordiam ejus, et ex dicto Christi, Matt. xiii. 11, habenti dabitur colligi posse. Nam praeterquam quod absurde dicitur illa revelatio suffi ciens, quae eget alia revelatione superaddita; quo sensu carpimus Pontifi ciorum $ententiam, qui pertendunt Scripturam dici posse sufficientem me diate, quia licet omnia non contineat, nos ad Traditionem amandat a qua possunt peti: Supponitur hic gratis quod probandum fuit, Deum bene utenti lumine naturae superadditurum fuisse lumen gratiae, quasi Deus sese ad quidquam adstrinxerit, aut homini quicquam debeat, aut uspiam nexus ille ex Scripturis probetur. Imo hoc e Pelagii fontibus videtur haustum, qui statuebat facienti quod in se est Deum non denegaturum gratiam. Lo cus Matth. xiii. 11, huc trahi non potest, quia agitur ibi de donis gratiae, quae Deus novis donis coronare solet, non de donis naturae.
+          </p>
+          <p>XIII. Locus Pauli Rom. ii. 4, quum ait <quote ana="#rom2_4">τὸ xgnorâ, re$ @ιτ ύς μιτάνοιa, #yus, benignitatem Dei ad paenitentiam invitare</quote>, nón huc pertinet, quia non
+            
+            agit de Gentilibus, sed de Judaeis; quos hoe capite convincere vult pec cati, ut, cap. 1, Ethnicos jam ejusdem reatùs convicerat: Patet 1. ex iis quae isti homini quem compellat tribuit, quae in nullum alium, quam im Judaeum aptius quadrant, ut quod alios judicet in iis quae ipse perpetrat, etc. 2. ex versu 17, ubi nominatim dirigitur sermo ad Judaeum, qui dicitur esse homo ille quem alloquutus fuerat, Ecce tu Judaeus nominaris, quae verba non sunt sermonis novi inchoatio ad alium hominem a praecedente, sed prioris continuatio cum clariori designatione personae : xgna-rirn; ergo de qua hic agitur notat revelationem factam Judaeis, et benefiéia ipsis col lata ; sed nihil commune habet cum operibus providentiae generalis.</p> 
+          
+          <p>XIV. Quamvis conscientia Gentilium aliquando eos excusare dicatur, Rom. ii. 14, 15, non sequitur posse eos in illo statu vera et solida pace, et quae eam sequitur perfecta salute frui; Quia aliud est excusare in quibus dam, vel a tanto, quod facit; aliud in omnibus et a toto, quod illi est im possibile; Aliud excusare a gravioribus sceleribus, et comparate ad alios mequiores; Aliud pacem certam et constantem nobis largiri, quae fluit ex sensu amoris Dei et nostrae cum eo reconciliationis, quae in Ethnico dari
+            non potest.</p> 
+          <p>XV. Alia ratio est status instituti, et destituti; Alia Legis in se et natura sua consideratae; Alia respectu nostri: Lex initio homini integro data ad vitam, et per se etiam ad vitam duxit, juxta sanctionem, Fac hoc et vives ;
+            sic intelligi Rom. ii. 13. Sed post lapsum quando viribus destituta est per carnem, non ad vitam, sed in speculum peccati et miseriae, ad hominis pec catoris inexcusabilitatem data est, Rom. iii. 19, 20.</p> 
+          
+          <p>XVI. Opus Legis bifariam dicitur, vel formaliter, quod Lex ipsa prae stat, vel imperative quod homini praecipit; prius est opus seu officium Legis circa hominem quod in praeceptione, promissione, interdictione et comminatione versatur; posterius est opus hominis circa Legem ; prius est propositio et revelatio Legis; posterius ejus observatio et impletio. Gen tiles dicuntur facere quœ sunt Legis, Rom. ii. 14, non quoad posterius, sed prius; non implendo mandata quae Lex praescribit, sed faciendo quod ipsa facit, honesta praecipiendo, et turpia vetando; patet 1. ex scopo generali Pauli, qui est convincere Gentiles etiam sine Lege scripta, mortis reos esse ex Lege naturali. 2. ex verbis sequentibus quae sunt ánynruxà, quia Legem non habentes, sunt sibi ipsis Leae. E. facere quae sunt Legis, est, esse sibi ipsis Legem.</p> 
+          
+          <p>XVII. Licet Ethnici comparate considerati, et relate ad se invicem, alii aliis justiores fuerint; licet eorum opera civiliter et moraliter loquendo virtutes dici possint; atque ita non ipsis defuerit vitae recte institutae du plex praemium ; tum positivum, quia hoc illis plerumque cessit in bonum aliquod temporale et conscientiae aliquam tranquillitatem in hoc mundo; tum negativum, quia tolerabilior illis pœnae evasit conditio: Tamen Theo logice loquendo et relate ad Deum, eorum opera in speciem optima, nihil aliud fuerunt quam splendidiora peccata, quae apud Deum nihil conferre potuerunt ad salutem.</p> 
+          <p>XVIII. Exempla Melchisedeci, Jobi, Centurionis, et similium quae affe runtur sunt aliena; quia illi omnes specialis gratiae et revelationis auxilio, et vera fide fecerunt ea propter quae laudantur in Scripturis, non ex sim plici naturae lumine. -</p>
+          
+          <p>XIX. Cornelius licet Gentilis origine, fuit tamen Proselytus Religione; etsi non crederet Messiam venisse, et esse Jesum quem Petrus nunciabat; poterat tamen credere cum Judaeis eum venturum ex oraculis Propheticis:
+            
+            Ita non accensendus est Ethnicis, sed Patribus, qui salutem a Redemptore nondum patefacto expectabant; unde ab adventu Petri non accepit fidei initium, sed augmentum.</p> 
+          <p>XX. Articuli duo de quibus, Heb. xi. 6, nom intelligendi sunt physice, quatenus rationis lumine percipi possunt, sed hyperphysice et Theologice, quatenus per Scripturas nobis manifestantur cognitione salvifica, qua non tantum novimus, quod sit Deus, et quod sit omnipotens rerum omnium Creator, sed quis sit, Pater, Filius et Spiritus Sanctus, et post lapsum Re demptor; non tantum Remunerator legaliter ex merito eum quaerentibus, sed ex gratia eum quaerentibus Evangelice per fidem in Mediatorem. Hanc esse mentem Apostoli probat 1. adjunctum fidei salvificae, quam toto capite praedicat. 2. Exempla Sanctorum quae ibidem referuntur: Ita fides in Deum, de qua Apostolus loquitur, non est generalis notitia Dei bonita tem suam quovis modo diffundentis; sed cognitio veri Dei propter Chris tum bona coelestia largientis. Accedere ad Deum Apostolo nihil aliud est quam communionem cum Deo in Christo obtinere, ut passim alibi in eadem Epistola, Heb. iv. 16, et vii. 25, et x. 22. Unde perperam Curcellaeus fidem in Deum, et fidem in Christum distinguit, ut illa sit absolute meces saria ad salutem, haec nonnisi ex revelatione divina; Nam nulla vera et salutaris potest esse fides in Deum, quae non conjuncta sit cum fide in Christum, Joa. xiv. 1. Cum in Deum non possimus credere, misi per Christum.</p>
+          <p>XXI. Non negamus varios ex Veteribus de Gentilium et Philosopho rum juxta rationem vitam suam instituentium salute bene sperasse, ut Clem. Aleae. Strom. 7, Justi. Apol. 2. Chrysost. homil. 37, in Matt. et alios citatos Casaubono Eaeercit. 7, in Baronium ; Sed minus mirum est istos in errore versatos fuisse, cum ante exortum Pelagium securius loquerentur, quam multos Scholasticos post gratiae in Christo necessitatem tam fortiter ab Augustino et discipulis ejus assertam, qui ad eundem lapidem impe
+          ete.
+        </p>
+        
+        <p>XXII. Si Zuinglius, Herculem, Theseum, Numam, Aristidem, Socra tem, et similes Heroas cœlo adscripsit, in Epist. ad Franciscum I. praefixâ Confessioni fidei, ubi cœlestium consortium describendo post nominatos Veteris et Novi Testamenti Sanctos, addit. Hic Herculem, Theseum, So cratem, Aristidem, Numam, etc. Hic Antecessores tuos et quotquot in fide hinc migrârunt Majores tuos videbis. Praeterquam quod a Nostris non pro batur; certum est eum potius errasse in facto quam in jure, non quasi sen serit januam salutis patere extra Christum et fidem, sed quia speravit misericordiam divinam modo nobis occulto, sed ipsi cognito, fidem aliis instillasse quos virtutibus alias heroicis tam egregié illustrasset, quod patet ex eo quod expresse loquitur de iis qui in fide migrarunt, quod non debet ad Majores Regis restringi, sed ad eos omnes de quibus loquutus fuerat in praecedentibus. Hanc autem illi mentem fuisse docet ejus de peccato ori ginali declaratio ad Urbanum Rhegium Tom. ii. p. 109, ubi `cum errare eos dixisset, qui damnationi adjudicant omnes quos Gentiles vocamus: ;£; guia enim scimus, quid fidei quisque in corde suo Dei manu scriptum
+          eat ?</p>
+        <p>XXIII. Licet Ethnici varia sacrificia obtulerint, non sequitur eos mise rigordiam Dei in Christo agnovisse, quia eorum sacrificia non tam fiebant ad impetrandam Dei gratiam salutárem, quae homini sine revelatione in
+          note$cere non potest, quia ejus exercitium plane est liberum, quam ad pla candam ejus justitiam, quâ naturaliter móta est, et cujus exercitium est
+          I\€C08§arium.</p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

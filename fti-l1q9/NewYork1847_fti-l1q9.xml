@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Locus I, Quaestio 9</title>
+        <author ref="#FranciscusTurrettinus">Franciscus Turrettinus</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Locus I, Quaestio 9</title>
+          <date when="2018-01-22">January 22, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="NY" n="NewYork1847">1847, Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-01-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        
+      </div>
+    </front>
+    <body>
+      <div xml:id="fti-l1q9">
+        <head>Locus I, Quaestio 9</head>
+        <head type="question-title">An Rationi judicium aliquod competat in rebus fidei ? An vero nullus omnino ejus sit usus ?</head>
+        <p>I. Duo extrema hic sunt vitanda; Alterum eorum qui in eaecessu peccant, nimium tribuentes Rationi, et eam pro Religionis et fidei Norma habentes; quod faciunt Socini ani, contra quos actum fuit Quaestione praecedenti: Alterum eorum qui in defectu errant, qui, ne videantur statuere rationem pro Norma fidei, vel parum vel nihil rationi concedunt; in qua $ententia sunt non modo Ana baptistae et Weigeliani, sed et Lutherani, et Pontificii, qui vellent testimo nium Rationis non esse audiendum, quoties judicat de Mysteriis quibus dam fidei; verbi gratia, quum dogma transubstantiationis vel ubiquitatis non vult admittere, quia rationi8 rectae lumini repugnat : Et nobis quia usum rationis plane non repudiamus, dicam talem propterea scribunt, quasi nos ipsos constituamus Judices et Arbitros ultimos in rebus fidei, et sic pulchro praetextu orbem decipiamus, dum nos $olam Scripturam judi cem agnoscere gloriamur.</p> 
+        <p>II. Non Quaeritur de judicio decisionis, quo publice determinatur con troversia aliqua : Hoc nemo nostrum Rationi tribuit; Sed vel Deo soli in Scriptura loquenti, si de summo agatur, vel Pastoribus in Ecclesia consti tutis, si de subalterno quaestio sit: Sed quaeritur tantum de judicio privatae discretionis, quo verum a falso discernitur, quodque rationi illustratae recte tribui cen$emus. 2. In judicio distinguendum est subjectum sive potentia cognoscens, a Norma $eu lege et fundamento quo nititur intellectus, ut ex illius praescripto judicet. 3. Norma, pro ratione Objecti judicandi, vel res picit veritatem sententiarum, vel veritatem connexionum : Sententiae rursus, vel sunt rerum natura notarum, vel tantum ex supernaturali revela
+          tione.</p>
+        <p>III. Hoc posito; Rationi dico competere judicium discretionis in rebus fidei; tum subjective, quia intellectus solius est cognoscere et discernere res fidei; tum Normaliter, et quidem respectu veritatis connexionum, in omni bus omnino enunciationibus, sive eae natura motae sint, sive ex revelatione; Sed respectu veritatis sententiarum, tantum in iis quae naturaliter nota sunt, et quidem eum triplici hac cautione. 1. ne pro necessario habeatur id judicium rationis, quasi Theologia absque eo esse non possit. 2. ut Verbum Dei in quo etiam veritates istae revelatae sunt, pro primaria semper norma habeatur, Ratio vero pro secundaria. 3. ut quum Verbum aliquid addit rei natura notae, quod matura ipsa ignorat, tum de ea non ex natura aut ratione, sed ex Verbo judicetur, non quasi Verbum et ratio inter se pugnent, sed quia ratio a Verbo perficitur; At in rebus tantum notis ex revelatione, ut in Mysterio Trinitatis, Incarnationis, etc. sola Norma Ver bum Dei est, ultra aut praeter quam non est sapiendum.</p> 
+        <p>IV. Non quaeritur, An mysteria fidei sint supra rationem, vel, An ratio illa assequi possit? Damus enim facile esse res quae longissime captum non tantum humanum, sed Angelicum superant, et ad quarum cognitionem opus fuit supernaturali revelatione : Fatemur etiam rationem non modo incapacem esse ea retegendi nisi revelarentur ; non modo infirmam ad ea capienda postquam revelata sunt; sed etiam lubricam et fallibilem, quae facile mendacium loco veritatis, et veritatem loco mendacii sequitur, et quae nunquam Verbo Dei ejusque mysteriis crederet, nisi Spiritus gratia eam
+          Status Quaes
+          tionis.
+          
+          illuminante : Sed quaeritur, An nullus sit omnino ejus usus, et Am Ra tionis testimonium plane repudiare debeamus, quoties de veritate vel falsi tate alicujus dogmatisjudicandum; quod Adversarii vellent, Nos negamus.</p> 
+        <p>V. Licet maxima sit intellectus humani caecitas, certum tamen est reli
+          quos adhuc esse in ipso radios aliquos luminis naturalis, et quaedam prin cipia quorum indubitata est veritas, qualia sunt, Totum majus esse sua parte, Effectum supponere causam, Esse et non esse terminos esse zvwrrevs etc. et nisi hoc foret, nullae dari possent scientiae aut artes nec quicquam certi esset in rerum matura. 2. Principia ista non modo certa sunt in natura, sed etiam in gratia et in mysteriis fidei; tantum enim abest ut ea destruat fides, quin contra ea mutuatur a ratione, et iis utitur ad confirma tionem dogmatum suorum. 3. Quamvis ratio et fides sint diversi ordinis, illa naturalis, haec supernaturalis, non tamen sunt oppositae, sed relationem habent ad se invicem, et sibi subordinantur; ratio perficitur a fide, et fides supponit rationem, ut illi superstruat mysteria gratiae.</p> 
+        <p>VI. Ratio non potest nec debet ex penu suo Mysteria proponere; solum Verbum Dei hoc habet juris, et nisi inde petantur, eo ipso rejicienda sunt, Gal. i. 8. 2. Non audienda est ratio quoties queritur se non posse capere mysteria fidei ; qui enim infinitum caperetur a finito ? Velle ergo rejicere mysteria, quia a ratione capi non possunt, non modo est peccare in fidem, sed et in rationem, quae se finitam et longe inferiorem agnoscit sublimibus istis mysteriis. 3. Non audienda est quoties sub praetextu mysteriorum fidei proprios errores vult stabilire, evertendo veritatem indubitatam prin cipiorum luminis naturalis, sive quoad res mere naturales, sive quoad mere supernaturales, sive quoad mixtas, quae gratia mutuatur a natura ad eas ad usum transferendas: Hinc recta ratio talia commenta debet rejicere, utpote rwrara cum principiis indubitatis luminis naturalis.
+        </p>
+        <p>VII. Rationis usum in Mysteriis fidei multiplicem esse R£gi;;us antea visum, ad illustrationem, collationem, illationem, p. ' probationem: Et probatur insuper 1. ex. 1 Cor. x. 15.
+          ubi Apostolus provocat ad judicium Corinthiorum, non modo Doctorum, sed et plebis. 2. ab exemplis Christi et Apostolorum ac Prophetarum, qui ubique ratiocinantur ad docenda mysteria fidei: Nec dicendum non licere ab illis qui $uárvsvrro, ad nos argumentari qui fallibiles; quia vis ratiocina tionum non nititur infallibilitate probantis, sed rei evidentia. 3. ex. 1
+          Joan. iv. 1. ubi jubemur probare spiritus, quod non potest fieri nisi rationis beneficio. 4. Sensus testimonium non est plane rejiciendum in rebus fidei, ut postea dicetur, ergo nec rationis, quia sensus est longe inferior ratione.</p>
+        <p>VIII. Aliud est cognoscere sensum propositionis alicu *°"j'"* jus, Aliud cognoscere ejus veritatem ; priori modo respi
+          - citur Evangelium simpliciter ut Verbum, posteriori ut Verbum divinum et infallibile: Ratio circa prius occupatur, sed fides tan tum circa posterius.</p> <p>IX. Aliud est rem aliquam esse incomprehensibilem, quae capi non possit; Aliud esse incompossibilem quae concipi non queat : Mysteria Trinitatis, Incarnationis et Praedestinationis sunt incomprehensibilia, quorum notionem tantum obscuram et imperfectam habere possumus; Sed figmentum Tran substantiationis vel Ubiquitatis, concipi non potest propter repugnantiam naturalem intellectus nostri in concipienda re penitus impossibili.</p> 
+        <p>X. Ratio corrupta et in concreto potest repugnare Theologiae, sed non sana et in abstracto, quae potest mysteria ignorare et non docere, sed non statim ea negare censenda est. Ut male colliges Medicum repugnare Jurisconsulto, quia leges non citat, sic nec Philosophus Theologo repug mat, licet mysteria ejus non tractet, et supra se esse agnoscat.</p>
+        
+        <p>XI. Humana dicuntur, vel quae ex corruptione carnali sunt, et hoc sensu opponit Christus humana divinis Matt. xvi. 17. vel quae ex imagine Dei residua sunt, et sic non repugnant, sed subordinantur; nec lumen lumini, nec veritas veritati contradicit, quia utriusque Deus Author est.</p> 
+        
+        <p>XII. Licet rationi per Spiritum Sanctum illustratae judicium aliquod discretionis tribuamus ; non propterea nosmet ultimos Arbitros et Judices in causis fidei constituimus, vel judicium supremum et decisionis Scripturae detrahimus; haec enim subordinata sunt, non contraria, et sic ratio judicat semper secundum Scripturam, tanquam normam primam et infallibilem.</p> 
+        
+        <p> XIII. Ex eo quod Mysteria fidei captum rationis superant, sequitur quidem eam non debere adhiberi tanquam principium et fundamentum ad ostendendam veritatem sententiarum fidei; sed non sequitur eam non posse adhiberi, ad ostendendam veritatem aut falsitatem connexionum in contro versiis fidei; nam veritas connexionum in rerum natura perpetua est, et in scholis quoque illis quae extra Ecclesiam sunt disci potest, ut August. non
+          semel lib. 2, de doctrina Christiana docet.</p> 
+        
+        <p>XIV. Quando judicium aliquod rationi in rebus fidei tribuimus, non intelligimus rationem caecam et corruptam per peccatum, quo sensu fate mur hominem animalem non posse percipere quae sunt Dei, 1 Cor. ii. 14, et φgimus, carnis esse inimicitiam adversus Deum, Rom. viii. 7, sed loquimur de ratione recta et sanata per gratiam, quo sensu homo spiritualis dicitur omnia judicare, 1 Cor. ii. 15, et Paulus saepe provocat ad judicium fidelium, 1 Cor. x. 15, et xi. 13; Hebr. v. 13, 14.</p> 
+        <p>XV. Captivatio intellectus quam Apostolus praescribit, 2 Cor. x. 5, non excludit omnem judicandi libertatem, sed tantum contradicendi studium, quando se effert adversus Christum et Evangelium ipsius, non ut ratio non possit discernere, sed ut non audeat repugnare, etsi mysteria quae propo nuntur, superent ejus captum, nec possit ea assequi; non vult ergo ra tionem prorsus tollere, quia gratia naturam non destruit sed perficit, sed tantum vult fidei servire et ancillari, ut sit pedissequa quae obediat, non domina quae imperet; ut subjiciatur, sed non ut penitus abjiciatur, ut fidem non fundet, pro fide tamen militet, et fidem jam fundatam amplecta tur, defendat et illustret.</p>
+        <p>XVI. Aliud est negare vel impugnare aliquem Articulum fidei, quia non videtur cum ratione convenire; Aliud impugnare erroneas opiniones circa eum, et falsas Scripturae expositiones; mon quia regulae philosophicae eas non admittunt, sed quia Verbo Dei, cui veritas naturalis connexionum inservit, contrariae sunt.</p>
+        <p>XVII. Licet utamur ratione et ejus principiis in controversiis Theolo gicis, non sequitur fieri a nobis mixturam Philosophiae cum Theologia, et rerum humanarum cum Divinis; quia non adhibentur tanquam fundamen tum et principium fidei ex quo mysteria probamus, sed tantum ut instru menta cognitionis; ut quum oculo corporis, et lumine Solis videmus aliquod objectum visibile, nulla fit mixtio oculi cum Sole, quia non concurrunt eadem ratione sed diversa.</p>
+        <p>XVIII. Transitus de gemere in genus tum committitur, quando, quod proprium est unius disciplinae, assumitur ad demonstrandam conclusionem alterius disciplinae; sed hoc nequaquam a nobis fieri solet in hoc negotio, quia non assumitur medius terminus ex Philosophia ad probandam conclu sionem fidei, sed ex Scriptura. 2. principia vel axiomata quae assumuntur ex ratione, vel ex Philosophia, ad probandum aliquem articulum fidei, non sunt ita propria Philosophiae, quin censeantur etiam pertinere ad Theolo giam saltem naturalem, quae praestrui debet supernaturali et revelatae;
+          atque ita ad Articulos fidei possunt dici spectare, si non formales, saltem praesuppositos.</p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>
