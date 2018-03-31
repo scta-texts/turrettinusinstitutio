@@ -43,7 +43,7 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="en">
     <front>
       <div xml:id="starts-on">
         
@@ -53,34 +53,32 @@
       <div xml:id="fti-l1q10">
         <head>Locus I, Quaestio 10</head>
         <head type="question-title">An Rationi humanae judicium contradictionis in Rebus Fidei permittendum sit ?</head>
-        <p>
-          <lb ed="#NY"/>I. Haec etiam Controversia agitatur inter Nos et Luthe<lb ed="#NY"/>ranos, 
-          potissimum Ubiquitarios, quibus quia objicere
-          <lb ed="#NY"/>solemus opinionem eorum de <foreign>πολυτοπίᾳ</foreign> vel <foreign>πανταχοθσιᾳ</foreign> 
-          <lb ed="#NY"/>Corporis Christi esse contradictoriam, regerere solent, Judicium contra<lb ed="#NY"/>dictionis 
-          in articulis fidei non ad Rationem pertinere, sed ad Scripturam 
-          <lb ed="#NY"/>sacram, Osiand. Enchiri. Calvin. c. i. q. 3. Menzerus in Elencho erro<lb ed="#NY"/>rum 
-          Sadeelis ad Arg. 6. Stegmanus in Photin. disp. 2, q. 3, unde Meis<lb ed="#NY"/>nerus 
-          quaest. metaph. 3, contra Calvin. dicit axioma istud, <quote>Contradictoria 
-            <lb ed="#NY"/>prorsus sunt impossibilia quia idem esse et non esse sit <foreign>ἀδύνατον</foreign></quote>, periculosis<lb ed="#NY"/>simum 
-          esse in divinis. Ad quaestionis statum tenendum, distinguenda 
-          <lb ed="#NY"/>hic tria sunt, ratio judicans, principium ex quo judicium formatur, et 
-          <lb ed="#NY"/>norma consequentiae qua judicium formatur. 1. Ratio hic intelligitur non 
-          <lb ed="#NY"/>caeca et depravata per peccatum, sed restituta et illuminata a Spiritu 
-          <lb ed="#NY"/>Sancto. 2. Principia sunt axiomata, non natura nota, aut humana autho<lb ed="#NY"/>ritate 
-          constituta; sed in Scriptura tradita. 3. Norma qua dirigitur et 
-          <lb ed="#NY"/>firmatur ratio in eruenda et applicanda veritate <sic>e<!-- shoud this be a? --></sic> Scriptura, sunt regulae 
-          <lb ed="#NY"/>bonae consequentiae a Deo Creaturae rationali inditae. - Norma autem ista 
-          <lb ed="#NY"/>non est Norma veritatis ipsius, quae est solum Dei Verbum et prima veritas 
-          <lb ed="#NY"/>normalis, sed Norma tantum consequentiae, cujus interventu certius cognos<lb ed="#NY"/>citur 
-          et discernitur quid sequatur ex vero, quid non.
-        </p> 
-        <p>
-          <lb ed="#NY"/>II. Non quaeritur, An Ratio possit assequi Mysteria 
-          <lb ed="#NY"/>fidei per se; nemo enim diffitetur plurima ex ipsis longis<lb ed="#NY"/>sime 
-          rationis captum superare; Sed, An possit cognoscere 
-          <lb ed="#NY"/>de contradictione propositionum, quae nónnisi ex naturae et rationis legibus discerni potest. 2. Non quaeritur de Judicio decisionis absoluto et illimi tato, sed de Judicio discretionis, quod limitatum est et alligatum Verbo, et quod ex eo semper probandum est, 1 Thes. v. 21; 1 Joan. iv. 1, quod si non facit semper ad convictionem alienam, sufficit tamen ad propriam.</p> 
-        <p>III. Sic ergo statuimus; Judicium contradictionis ad rationem perti nere, sed 1. supposita semper revelatione, ejusque veritate per se fide digna. 2. Organice et ministerialiter, non despotice et autoritative. 3. Cum exigentia ad ipsam Scripturam, quae satis seipsam interpretatur, nec extra se ullum requirit interpretem, quo ejus sensus stabiliatur. Atque ita Rationem a Spiritu Sancto illuminátám per Verbum, ex ipsomet Verbo juxta regulas bonae et necessariae consequentiae posse considerare et judi care, quomodo partes doctrinae inter se cohaereant, et quid ex illis sequatur, quid non.
+        <p>I. Also this controversy exists between us and the Lutherans, especially the Ubiquitarians, 
+          because we are accustomed to object that their opinions regarding <foreign>πολυτοπίᾳ</foreign> and <foreign>πανταχοθσιᾳ</foreign> of the body of Christ 
+           are contradictory, they are accustomed to reply 
+           the judgement of a contradiction in the articles of faith is not the domain of reason, but of Holy Scripture, <ref>Osiand. Enchiri.</ref> <ref>Calvin. c. i. q. 3.</ref> <ref>Menzerus in Elencho erro rum Sadeelis ad Arg. 6.</ref> <ref>Stegmanus in Photin. disp. 2, q. 3</ref>, whence <ref>Meisnerus quaest. metaph. 3, contra Calvin.</ref> says 
+          the following axiom, 
+          <quote>Contradictories are absolutely 
+            impossible because that the same thing is and is not is <foreign>ἀδύνατον</foreign></quote>, this is most dangerous in the divine. For the status of the question, 
+          it should be held, 
+          that three things should be distinguished.
+          judging reason, the principle from which the judgment is formed, and the norm of the consequence by which the judgment is formed. 1. Reason here should be understood not as the reason that is blind and depraved as a result of sin, 
+          but the reason that is restored and illuminated by the Holy Spirit. 2. Principles are aximotic, not known by nature or constituted by the authority of human nature. 3. Norms by which reason is directed and made firm those things that should be rejected and those things that should be applied by the scriptures, are sound rules of a consequence <!-- inference --> given by God to rational creatures. But this norm is not the norm of this truth, 
+          which alone is the Word of God and this first normal truth, but only the norm of a consequence <!-- inference-->, 
+          through the intervention of which it is known or discerned more certainly what follows from something true and what does not.</p> 
+        <p>II. It is not asked, 
+          whether reason is able to understand the 
+          mysteries of faith per se, for no one 
+          denies that many of these things surpass the grasp of reason by the greatest distance. But, it is asked whether it is possible to know from the contradiction of propositions,
+          which is not able to be discerned except from the the laws of nature and reason. 2. It is not asked about 
+          about the judgment of discretion, 
+          which is limited and fettered to the Word, 
+          and that from this it should always be proved, 
+          <ref>1 Thes. v. 21</ref>; <ref>1 Joan. iv. 1</ref>,
+          because if it does not always make an alien 
+          conviction, nevertheless it suffices to the proper
+          conviction.</p> 
+        <p>III. Sic ergo statuimus; Judicium contradictionis ad rationem pertinere, sed 1. supposita semper revelatione, ejusque veritate per se fide digna. 2. Organice et ministerialiter, non despotice et autoritative. 3. Cum exigentia ad ipsam Scripturam, quae satis seipsam interpretatur, nec extra se ullum requirit interpretem, quo ejus sensus stabiliatur. Atque ita Rationem a Spiritu Sancto illuminátám per Verbum, ex ipsomet Verbo juxta regulas bonae et necessariae consequentiae posse considerare et judi care, quomodo partes doctrinae inter se cohaereant, et quid ex illis sequatur, quid non.
           Judiciicium contra-</p> 
         <p>IV. Rationes sunt, 1. Quia Scripturahoe semel praecipit, Matt. vii. 15, et xvi. 6; Col. ii. 8; £ompetere pro- 1 Thessal. v. 21; Hebr. v. 14. 2. Exempla Sanctorum batur. confirmant, ut Berœensium, Act. xvii. 11, et Corinthio
           rum, 1 Cor. x. 15. 3. Finis Scripturae docet, qui est perfectio Viri Dei in veritatis cognitione, et contradicentium convictione, 1 Tim. iii. 16; Tit. i. 9, qui sine eo obtineri nequit. 4. Rationis usus evincit, quia ut
